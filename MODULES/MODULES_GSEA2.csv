@@ -1,0 +1,13 @@
+﻿MODULENAME;ELEMENTNAME1;ELEMENTName2;ELEMENTNAME3;DEPT_ATTACHEMENT
+GSEA31 antennes et TNS ;antennes ;TNS ;;SIC
+GSEA32 commandes num;chaines d acquisition ;commandes num;;GEI
+GSEA33 robotique et CPP;CPP;robotique ;;MI
+GSEA34 electronique de puissance ;machines tournantes;electro de puissance ;;GEI
+GSEA35 conception de sys electroniques ;conception de sys ;tp conception de sys electroniques;;GEI
+GSEA36 langues et com2 ;espagnol2 allemand;anglais pro;techniques de com;SIC
+GSEA41 automates et DSP ;theorie des automates ;automates programmables ;DSP;GEI
+GSEA42 circuits et sys integres ;circuit et sys integres ;;;GEI
+GSEA43 traitement d images et sys de vision;systeme de vision ;traitement images;;GEI
+GSEA44 prog VHDL ;prog VHDL;;;GEI
+GSEA45 qualite ;outils de gestion de la qualite ;maintenance et surete de fonctionnement ;;GEI
+GSEA46 management 2;eco et compta 2;projets et stages;management de projet ;GEI

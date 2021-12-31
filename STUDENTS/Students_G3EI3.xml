@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Students.xsd">
+<Student>
+<ID>1</ID>
+<CNE>16270519</CNE>
+<DateofBirth>1997-03-31</DateofBirth>
+<FirstName>Henson</FirstName>
+<LastName>Black</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>03 94 02 54 66</Phone>
+<Email>In.condimentum.Donec@congueturpisIn.org</Email>
+</Student>
+<Student>
+<ID>2</ID>
+<CNE>16260520</CNE>
+<DateofBirth>1997-11-23</DateofBirth>
+<FirstName>Ballard</FirstName>
+<LastName>Curtis</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>07 39 78 43 24</Phone>
+<Email>pretium.neque@vitaevelitegestas.com</Email>
+</Student>
+<Student>
+<ID>3</ID>
+<CNE>16221030</CNE>
+<DateofBirth>1997-09-22</DateofBirth>
+<FirstName>Holcomb</FirstName>
+<LastName>Fox</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>06 69 98 76 69</Phone>
+<Email>sapien@metusAliquamerat.com</Email>
+</Student>
+<Student>
+<ID>4</ID>
+<CNE>16880313</CNE>
+<DateofBirth>1997-06-22</DateofBirth>
+<FirstName>Fuller</FirstName>
+<LastName>Guthrie</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>04 23 10 99 79</Phone>
+<Email>Nunc.pulvinar.arcu@Crasloremlorem.co.uk</Email>
+</Student>
+<Student>
+<ID>5</ID>
+<CNE>16561026</CNE>
+<DateofBirth>1997-06-10</DateofBirth>
+<FirstName>Beard</FirstName>
+<LastName>Holloway</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>03 33 26 13 38</Phone>
+<Email>pede.ultrices.a@Maurismolestie.edu</Email>
+</Student>
+<Student>
+<ID>6</ID>
+<CNE>16690512</CNE>
+<DateofBirth>1997-10-02</DateofBirth>
+<FirstName>Mcmillan</FirstName>
+<LastName>George</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>02 20 86 75 67</Phone>
+<Email>in.consequat.enim@est.com</Email>
+</Student>
+<Student>
+<ID>7</ID>
+<CNE>16590519</CNE>
+<DateofBirth>1997-10-13</DateofBirth>
+<FirstName>Knapp</FirstName>
+<LastName>Ortiz</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>09 45 26 18 08</Phone>
+<Email>Proin.dolor@tellusNunclectus.ca</Email>
+</Student>
+<Student>
+<ID>8</ID>
+<CNE>16320103</CNE>
+<DateofBirth>1997-11-14</DateofBirth>
+<FirstName>Washington</FirstName>
+<LastName>Benjamin</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>09 36 77 95 15</Phone>
+<Email>quis.accumsan@purusDuis.org</Email>
+</Student>
+<Student>
+<ID>9</ID>
+<CNE>16171118</CNE>
+<DateofBirth>1997-06-08</DateofBirth>
+<FirstName>Cabrera</FirstName>
+<LastName>Ross</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>09 60 01 73 60</Phone>
+<Email>Etiam@vestibulumMaurismagna.ca</Email>
+</Student>
+<Student>
+<ID>10</ID>
+<CNE>16020307</CNE>
+<DateofBirth>1997-06-05</DateofBirth>
+<FirstName>Brennan</FirstName>
+<LastName>York</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>04 42 18 04 41</Phone>
+<Email>mi.lacinia.mattis@lacus.co.uk</Email>
+</Student>
+<Student>
+<ID>11</ID>
+<CNE>16871112</CNE>
+<DateofBirth>1997-11-14</DateofBirth>
+<FirstName>Byrd</FirstName>
+<LastName>Mendoza</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>03 05 21 68 60</Phone>
+<Email>urna.et@anteblanditviverra.ca</Email>
+</Student>
+<Student>
+<ID>12</ID>
+<CNE>16301010</CNE>
+<DateofBirth>1997-10-18</DateofBirth>
+<FirstName>Rosa</FirstName>
+<LastName>Oneal</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>05 66 61 50 52</Phone>
+<Email>ornare.placerat.orci@liberoInteger.ca</Email>
+</Student>
+<Student>
+<ID>13</ID>
+<CNE>16530228</CNE>
+<DateofBirth>1997-07-28</DateofBirth>
+<FirstName>Cain</FirstName>
+<LastName>Ingram</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>07 52 82 52 74</Phone>
+<Email>elit@condimentumDonecat.ca</Email>
+</Student>
+<Student>
+<ID>14</ID>
+<CNE>16140326</CNE>
+<DateofBirth>1997-06-16</DateofBirth>
+<FirstName>Graves</FirstName>
+<LastName>Justice</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>06 81 67 87 51</Phone>
+<Email>mauris@anunc.com</Email>
+</Student>
+<Student>
+<ID>15</ID>
+<CNE>16400928</CNE>
+<DateofBirth>1997-11-12</DateofBirth>
+<FirstName>Greer</FirstName>
+<LastName>Guerrero</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>08 38 69 72 39</Phone>
+<Email>Phasellus@nisiAenean.com</Email>
+</Student>
+<Student>
+<ID>16</ID>
+<CNE>16450723</CNE>
+<DateofBirth>1997-05-17</DateofBirth>
+<FirstName>Britt</FirstName>
+<LastName>Cummings</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>05 53 11 64 65</Phone>
+<Email>tempus@malesuadaut.edu</Email>
+</Student>
+<Student>
+<ID>17</ID>
+<CNE>16220519</CNE>
+<DateofBirth>1997-10-20</DateofBirth>
+<FirstName>Cardenas</FirstName>
+<LastName>William</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>08 03 62 30 91</Phone>
+<Email>egestas@diamSed.co.uk</Email>
+</Student>
+<Student>
+<ID>18</ID>
+<CNE>16831227</CNE>
+<DateofBirth>1997-11-02</DateofBirth>
+<FirstName>Chambers</FirstName>
+<LastName>Fields</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>07 26 09 29 06</Phone>
+<Email>ridiculus@eudui.edu</Email>
+</Student>
+<Student>
+<ID>19</ID>
+<CNE>16020130</CNE>
+<DateofBirth>1997-10-18</DateofBirth>
+<FirstName>Hull</FirstName>
+<LastName>Jimenez</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>03 44 39 02 48</Phone>
+<Email>Duis.at.lacus@euligulaAenean.ca</Email>
+</Student>
+<Student>
+<ID>20</ID>
+<CNE>16690410</CNE>
+<DateofBirth>1997-04-17</DateofBirth>
+<FirstName>Martinez</FirstName>
+<LastName>Newman</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>05 05 23 89 96</Phone>
+<Email>vitae.erat@libero.net</Email>
+</Student>
+<Student>
+<ID>21</ID>
+<CNE>16760310</CNE>
+<DateofBirth>1997-10-29</DateofBirth>
+<FirstName>Melton</FirstName>
+<LastName>Fernandez</LastName>
+<ClasseName>G3EI3</ClasseName>
+<Phone>09 70 06 91 76</Phone>
+<Email>Donec.feugiat@Vivamusmolestiedapibus.net</Email>
+</Student>
+</Students>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GINF31 Programmation oriente objet et XML</ModuleName>
+<ElementName>Programation orientee objet en JAVA</ElementName>
+<ElementName>XML et Applications</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF32 qualite et approche processus</ModuleName>
+<ElementName>assurance contrôle qualite</ElementName>
+<ElementName>cycle de vie logiciel</ElementName>
+<ElementName>maitrise et optimisation des processus</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF33 modelisation oriente objet et IHM</ModuleName>
+<ElementName>modelisation UML</ElementName>
+<ElementName>interaction homme machine</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF34 bases de donnees avancees 1</ModuleName>
+<ElementName>optimisation et qualite de base de donnees</ElementName>
+<ElementName>administration et securite des bases de donnees </ElementName>
+<ElementName>bases de donnees NOSQL</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF35 administration et programmation sys </ModuleName>
+<ElementName>administration systeme </ElementName>
+<ElementName>programmation systeme </ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF36 langues et communication 2 </ModuleName>
+<ElementName>espagnol 2 et allemand</ElementName>
+<ElementName>anglais pro</ElementName>
+<ElementName>technique de communication </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF41 technologies distribuees</ModuleName>
+<ElementName>intro a JEE</ElementName>
+<ElementName>programmation C#</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF42 bases de donnees avancees 2 et cloud</ModuleName>
+<ElementName>gestion des donnes complexes</ElementName>
+<ElementName>gestion des donnees distribuees</ElementName>
+<ElementName>cloud computing et infogerance</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF43 traitement de l image</ModuleName>
+<ElementName>traitement d image</ElementName>
+<ElementName>vision numerique</ElementName>
+<ElementName>processus stochastique</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF44 programmation declarative et TAV</ModuleName>
+<ElementName>programmation declarative</ElementName>
+<ElementName>technique algorithmique avancee </ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF45 securite et cryptographie</ModuleName>
+<ElementName>securite des systemes </ElementName>
+<ElementName>cryptographie</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF46 management de l entreprise 2 </ModuleName>
+<ElementName>economie et compta 2</ElementName>
+<ElementName>projets collectif et stages</ElementName>
+<ElementName>management de projet</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

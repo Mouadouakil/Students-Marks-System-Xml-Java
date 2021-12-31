@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Students.xsd">
+<Student>
+<ID>1</ID>
+<CNE>16960326</CNE>
+<DateofBirth>2002-02-05</DateofBirth>
+<FirstName>Nash</FirstName>
+<LastName>Sharp</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>07 90 60 45 16</Phone>
+<Email>Integer.vulputate.risus@in.net</Email>
+</Student>
+<Student>
+<ID>2</ID>
+<CNE>16190909</CNE>
+<DateofBirth>2002-03-29</DateofBirth>
+<FirstName>Ayers</FirstName>
+<LastName>Juarez</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>09 49 28 66 09</Phone>
+<Email>dolor.Fusce@Nullamfeugiatplacerat.net</Email>
+</Student>
+<Student>
+<ID>3</ID>
+<CNE>16140917</CNE>
+<DateofBirth>2003-01-26</DateofBirth>
+<FirstName>Manning</FirstName>
+<LastName>Mcclain</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>03 47 15 16 88</Phone>
+<Email>morbi@sempercursusInteger.edu</Email>
+</Student>
+<Student>
+<ID>4</ID>
+<CNE>16611129</CNE>
+<DateofBirth>2002-02-15</DateofBirth>
+<FirstName>Christian</FirstName>
+<LastName>Frost</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>04 69 22 24 74</Phone>
+<Email>Vestibulum.ante@sit.net</Email>
+</Student>
+<Student>
+<ID>5</ID>
+<CNE>16710306</CNE>
+<DateofBirth>2002-11-04</DateofBirth>
+<FirstName>Cross</FirstName>
+<LastName>Poole</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>09 34 76 58 52</Phone>
+<Email>tincidunt@utipsumac.org</Email>
+</Student>
+<Student>
+<ID>6</ID>
+<CNE>16321018</CNE>
+<DateofBirth>2003-01-06</DateofBirth>
+<FirstName>Hart</FirstName>
+<LastName>Farmer</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>04 29 31 76 18</Phone>
+<Email>ultricies.ornare.elit@Sednunc.com</Email>
+</Student>
+<Student>
+<ID>7</ID>
+<CNE>16900109</CNE>
+<DateofBirth>2002-08-27</DateofBirth>
+<FirstName>Schroeder</FirstName>
+<LastName>Cross</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>04 81 61 33 46</Phone>
+<Email>lorem@sedleoCras.net</Email>
+</Student>
+<Student>
+<ID>8</ID>
+<CNE>16451027</CNE>
+<DateofBirth>2002-03-13</DateofBirth>
+<FirstName>Blankenship</FirstName>
+<LastName>Velasquez</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>01 57 56 94 06</Phone>
+<Email>tempus.risus@quis.co.uk</Email>
+</Student>
+<Student>
+<ID>9</ID>
+<CNE>16260505</CNE>
+<DateofBirth>2002-03-29</DateofBirth>
+<FirstName>Christensen</FirstName>
+<LastName>Graham</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>09 42 88 12 85</Phone>
+<Email>dui.Cras.pellentesque@conubianostraper.com</Email>
+</Student>
+<Student>
+<ID>10</ID>
+<CNE>16840512</CNE>
+<DateofBirth>2002-09-06</DateofBirth>
+<FirstName>Anderson</FirstName>
+<LastName>Woods</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>04 73 22 77 39</Phone>
+<Email>enim.Suspendisse@eu.ca</Email>
+</Student>
+<Student>
+<ID>11</ID>
+<CNE>16400812</CNE>
+<DateofBirth>2002-04-09</DateofBirth>
+<FirstName>Sandoval</FirstName>
+<LastName>Wagner</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>09 00 73 93 57</Phone>
+<Email>mi.fringilla@Integervitae.com</Email>
+</Student>
+<Student>
+<ID>12</ID>
+<CNE>16620114</CNE>
+<DateofBirth>2002-09-28</DateofBirth>
+<FirstName>Curtis</FirstName>
+<LastName>Middleton</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>09 11 11 69 82</Phone>
+<Email>nec@odioNaminterdum.net</Email>
+</Student>
+<Student>
+<ID>13</ID>
+<CNE>16630421</CNE>
+<DateofBirth>2002-09-25</DateofBirth>
+<FirstName>Tyler</FirstName>
+<LastName>Morgan</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>08 87 09 67 57</Phone>
+<Email>Proin.eget@enim.co.uk</Email>
+</Student>
+<Student>
+<ID>14</ID>
+<CNE>16260719</CNE>
+<DateofBirth>2002-10-06</DateofBirth>
+<FirstName>Bartlett</FirstName>
+<LastName>Owen</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>06 59 14 26 10</Phone>
+<Email>eget@Nuncmauris.org</Email>
+</Student>
+<Student>
+<ID>15</ID>
+<CNE>16220810</CNE>
+<DateofBirth>2002-08-11</DateofBirth>
+<FirstName>Allen</FirstName>
+<LastName>Kramer</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>08 42 66 04 03</Phone>
+<Email>et@magnaUt.co.uk</Email>
+</Student>
+<Student>
+<ID>16</ID>
+<CNE>16620924</CNE>
+<DateofBirth>2002-06-15</DateofBirth>
+<FirstName>Lawrence</FirstName>
+<LastName>Le</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>07 80 84 37 78</Phone>
+<Email>mollis.nec.cursus@nuncQuisque.co.uk</Email>
+</Student>
+<Student>
+<ID>17</ID>
+<CNE>16670803</CNE>
+<DateofBirth>2002-04-19</DateofBirth>
+<FirstName>King</FirstName>
+<LastName>Goff</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>05 56 40 73 70</Phone>
+<Email>facilisis.Suspendisse.commodo@euodio.com</Email>
+</Student>
+<Student>
+<ID>18</ID>
+<CNE>16910623</CNE>
+<DateofBirth>2002-03-08</DateofBirth>
+<FirstName>Gould</FirstName>
+<LastName>Davis</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>08 93 54 90 19</Phone>
+<Email>tellus.Phasellus.elit@volutpatNulladignissim.org</Email>
+</Student>
+<Student>
+<ID>19</ID>
+<CNE>16831007</CNE>
+<DateofBirth>2003-01-02</DateofBirth>
+<FirstName>Christian</FirstName>
+<LastName>Oconnor</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>05 01 23 50 82</Phone>
+<Email>eros.Proin@sed.net</Email>
+</Student>
+<Student>
+<ID>20</ID>
+<CNE>16710804</CNE>
+<DateofBirth>2003-01-06</DateofBirth>
+<FirstName>Hooper</FirstName>
+<LastName>Hudson</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>07 89 89 78 46</Phone>
+<Email>ac.tellus@Aliquamornare.org</Email>
+</Student>
+<Student>
+<ID>21</ID>
+<CNE>16220417</CNE>
+<DateofBirth>2002-07-20</DateofBirth>
+<FirstName>Curry</FirstName>
+<LastName>Dejesus</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>09 16 33 78 00</Phone>
+<Email>arcu@dapibusidblandit.ca</Email>
+</Student>
+<Student>
+<ID>22</ID>
+<CNE>16561208</CNE>
+<DateofBirth>2002-11-29</DateofBirth>
+<FirstName>Blackburn</FirstName>
+<LastName>Glover</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>01 43 68 50 51</Phone>
+<Email>vitae.sodales.at@non.net</Email>
+</Student>
+<Student>
+<ID>23</ID>
+<CNE>16890119</CNE>
+<DateofBirth>2002-03-06</DateofBirth>
+<FirstName>Church</FirstName>
+<LastName>Reilly</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>07 69 11 65 84</Phone>
+<Email>risus.quis@liberoMorbiaccumsan.co.uk</Email>
+</Student>
+<Student>
+<ID>24</ID>
+<CNE>16071009</CNE>
+<DateofBirth>2002-03-22</DateofBirth>
+<FirstName>Stephenson</FirstName>
+<LastName>Rose</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>04 27 61 31 15</Phone>
+<Email>sit.amet@anteblandit.org</Email>
+</Student>
+<Student>
+<ID>25</ID>
+<CNE>16730502</CNE>
+<DateofBirth>2002-08-26</DateofBirth>
+<FirstName>Chavez</FirstName>
+<LastName>Adams</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>05 74 55 46 43</Phone>
+<Email>quam.dignissim.pharetra@aenimSuspendisse.net</Email>
+</Student>
+<Student>
+<ID>26</ID>
+<CNE>16420108</CNE>
+<DateofBirth>2003-01-17</DateofBirth>
+<FirstName>Boyer</FirstName>
+<LastName>Chen</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>03 54 99 25 37</Phone>
+<Email>convallis.ligula@magnaLoremipsum.edu</Email>
+</Student>
+<Student>
+<ID>27</ID>
+<CNE>16211229</CNE>
+<DateofBirth>2002-10-03</DateofBirth>
+<FirstName>Osborne</FirstName>
+<LastName>Trujillo</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>08 01 25 96 11</Phone>
+<Email>velit.eget.laoreet@nascetur.com</Email>
+</Student>
+<Student>
+<ID>28</ID>
+<CNE>16830606</CNE>
+<DateofBirth>2002-03-24</DateofBirth>
+<FirstName>Watson</FirstName>
+<LastName>French</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>08 26 86 98 37</Phone>
+<Email>non.egestas.a@euaugue.edu</Email>
+</Student>
+<Student>
+<ID>29</ID>
+<CNE>16700925</CNE>
+<DateofBirth>2002-08-03</DateofBirth>
+<FirstName>Gentry</FirstName>
+<LastName>Stout</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>09 00 87 57 84</Phone>
+<Email>ullamcorper.velit@sollicitudinorci.edu</Email>
+</Student>
+<Student>
+<ID>30</ID>
+<CNE>16090106</CNE>
+<DateofBirth>2002-12-14</DateofBirth>
+<FirstName>Mack</FirstName>
+<LastName>Wallace</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>06 96 92 14 98</Phone>
+<Email>Proin.velit@dis.co.uk</Email>
+</Student>
+<Student>
+<ID>31</ID>
+<CNE>16110903</CNE>
+<DateofBirth>2002-04-06</DateofBirth>
+<FirstName>Mccullough</FirstName>
+<LastName>Orr</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>05 35 06 37 51</Phone>
+<Email>convallis.in@faucibusorciluctus.co.uk</Email>
+</Student>
+<Student>
+<ID>32</ID>
+<CNE>16970303</CNE>
+<DateofBirth>2002-10-17</DateofBirth>
+<FirstName>Merritt</FirstName>
+<LastName>Le</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>04 36 04 57 25</Phone>
+<Email>dui.augue.eu@etrutrum.net</Email>
+</Student>
+<Student>
+<ID>33</ID>
+<CNE>16240406</CNE>
+<DateofBirth>2002-06-09</DateofBirth>
+<FirstName>Fuentes</FirstName>
+<LastName>Hanson</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>09 21 51 50 71</Phone>
+<Email>urna@etmalesuada.edu</Email>
+</Student>
+<Student>
+<ID>34</ID>
+<CNE>16440328</CNE>
+<DateofBirth>2002-08-10</DateofBirth>
+<FirstName>Stokes</FirstName>
+<LastName>Porter</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>01 46 51 94 26</Phone>
+<Email>Nullam.lobortis.quam@pellentesqueafacilisis.com</Email>
+</Student>
+<Student>
+<ID>35</ID>
+<CNE>16790120</CNE>
+<DateofBirth>2002-05-28</DateofBirth>
+<FirstName>Underwood</FirstName>
+<LastName>Green</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>01 07 90 32 57</Phone>
+<Email>Morbi.non.sapien@fermentum.com</Email>
+</Student>
+<Student>
+<ID>36</ID>
+<CNE>16220130</CNE>
+<DateofBirth>2002-03-29</DateofBirth>
+<FirstName>Walton</FirstName>
+<LastName>Cain</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>08 65 98 09 81</Phone>
+<Email>rhoncus@velitegetlaoreet.edu</Email>
+</Student>
+<Student>
+<ID>37</ID>
+<CNE>16430701</CNE>
+<DateofBirth>2002-09-07</DateofBirth>
+<FirstName>Pittman</FirstName>
+<LastName>Mccarthy</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>03 55 35 21 75</Phone>
+<Email>nec@elitfermentumrisus.com</Email>
+</Student>
+<Student>
+<ID>38</ID>
+<CNE>16390813</CNE>
+<DateofBirth>2002-12-23</DateofBirth>
+<FirstName>Wilkins</FirstName>
+<LastName>Levy</LastName>
+<ClasseName>AP1</ClasseName>
+<Phone>08 97 16 19 56</Phone>
+<Email>vel.quam.dignissim@suscipitnonummyFusce.com</Email>
+</Student>
+</Students>

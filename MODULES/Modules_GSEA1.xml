@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GSEA11 maths appliquees</ModuleName>
+<ElementName>analyse numerique </ElementName>
+<ElementName>optimisation </ElementName>
+<ElementName>statistiques</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA12 traitement de signal </ModuleName>
+<ElementName>traitement de signal </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA13 electronique 1</ModuleName>
+<ElementName>electronique analogique</ElementName>
+<ElementName>electronique numerique</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA14 ondes et propagation </ModuleName>
+<ElementName>ondes electromagnetiques</ElementName>
+<ElementName>lignes de transmission </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA15 automatique et electrotech1</ModuleName>
+<ElementName>automatique lineaire</ElementName>
+<ElementName>electrotechnique</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA16 langues et com 1</ModuleName>
+<ElementName>methodologie de PP</ElementName>
+<ElementName>developpement perosnnel</ElementName>
+<ElementName>anglais 1 et espagnol 1</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA21 assembleur microprocesseur et microcontroleur </ModuleName>
+<ElementName>assembleur et sys </ElementName>
+<ElementName>miicrocontroleurs</ElementName>
+<ElementName>tp electronique num</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA22 electronique 3 et tp </ModuleName>
+<ElementName>electronique analogique 2</ElementName>
+<ElementName>automatisme </ElementName>
+<ElementName>tp electronique et automatisme</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA23 electrotechnique 2 et installations electriques</ModuleName>
+<ElementName>electrotechnique 2 </ElementName>
+<ElementName>tp electrotechnique </ElementName>
+<ElementName>installation electrique</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA24 instrumentation et automatique 2 </ModuleName>
+<ElementName>metrologie instrumentation et labview </ElementName>
+<ElementName>automatique 2 </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA25 informatique </ModuleName>
+<ElementName>bases de donnees </ElementName>
+<ElementName>PHP</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA26 management de l entreprise 1 </ModuleName>
+<ElementName>Organisation et gestion </ElementName>
+<ElementName>ECO1</ElementName>
+<ElementName>COMPTA 1 </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+</Modules>

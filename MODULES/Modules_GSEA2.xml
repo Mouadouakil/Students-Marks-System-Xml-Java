@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GSEA31 antennes et TNS </ModuleName>
+<ElementName>antennes </ElementName>
+<ElementName>TNS </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA32 commandes num</ModuleName>
+<ElementName>chaines d acquisition </ElementName>
+<ElementName>commandes num</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA33 robotique et CPP</ModuleName>
+<ElementName>CPP</ElementName>
+<ElementName>robotique </ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA34 electronique de puissance </ModuleName>
+<ElementName>machines tournantes</ElementName>
+<ElementName>electro de puissance </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA35 conception de sys electroniques </ModuleName>
+<ElementName>conception de sys </ElementName>
+<ElementName>tp conception de sys electroniques</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA36 langues et com2 </ModuleName>
+<ElementName>espagnol2 allemand</ElementName>
+<ElementName>anglais pro</ElementName>
+<ElementName>techniques de com</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA41 automates et DSP </ModuleName>
+<ElementName>theorie des automates </ElementName>
+<ElementName>automates programmables </ElementName>
+<ElementName>DSP</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA42 circuits et sys integres </ModuleName>
+<ElementName>circuit et sys integres </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA43 traitement d images et sys de vision</ModuleName>
+<ElementName>systeme de vision </ElementName>
+<ElementName>traitement images</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA44 prog VHDL </ModuleName>
+<ElementName>prog VHDL</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA45 qualite </ModuleName>
+<ElementName>outils de gestion de la qualite </ElementName>
+<ElementName>maintenance et surete de fonctionnement </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA46 management 2</ModuleName>
+<ElementName>eco et compta 2</ElementName>
+<ElementName>projets et stages</ElementName>
+<ElementName>management de projet </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+</Modules>

@@ -1,0 +1,13 @@
+﻿MODULENAME;ELEMENTNAME1;ELEMENTName2;ELEMENTNAME3;DEPT_ATTACHEMENT
+GINF11 maths pour l ing;analyse numerique;optimisation ;statistiques;MI
+GINF12 signal;traitement de signal;probabilites;;SIC
+GINF13 electronique 1;electronique numerique;electronique analogique;;SIC
+GINF14 programmation;langage C;programmation web php;;MI
+GINF15 bases de donnees et reseaux;basesde donnees relationnelles;concepts fondamentaux des reseaux;;MI
+GINF16 langues et com1;methodologies de PP;developpement perosnnel;anglais 1 et espagnol 1;SIC
+GINF 21 dev informatique 2;POO CPP;web PHP5;;SIC
+GINF22 bdd dev et manipulation ;methodes de modelisation des BDD ;manipulation et dev des BDR;PLSQL;SIC
+GINF23 theorie des graphes recherche op;theorie des graphes ;recherche op ;;SIC
+GINF24 reseaux 1;protocoles et adressage reseau;technologie des reseaux;tp Cisco;MI
+GINF25 architecture et linux ;architecture des processeurs;SE linux;tp assembleur;SIC
+GINF26management 1;gestion des entreprises ;comptabilite; economie;SIC

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Students.xsd">
+<Student>
+<ID>1</ID>
+<CNE>187349082</CNE>
+<DateofBirth>1997-10-09</DateofBirth>
+<FirstName>Wade</FirstName>
+<LastName>Sellers</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>09 16 83 52 98</Phone>
+<Email>lectus@arcuCurabitur.net</Email>
+</Student>
+<Student>
+<ID>2</ID>
+<CNE>195003603</CNE>
+<DateofBirth>1997-07-11</DateofBirth>
+<FirstName>Crosby</FirstName>
+<LastName>Rosario</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>09 38 70 01 97</Phone>
+<Email>Donec@a.co.uk</Email>
+</Student>
+<Student>
+<ID>3</ID>
+<CNE>181385492</CNE>
+<DateofBirth>1997-07-28</DateofBirth>
+<FirstName>Odom</FirstName>
+<LastName>Jenkins</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>09 08 78 58 99</Phone>
+<Email>vulputate@adipiscingfringilla.co.uk</Email>
+</Student>
+<Student>
+<ID>4</ID>
+<CNE>191593229</CNE>
+<DateofBirth>1997-09-22</DateofBirth>
+<FirstName>Walters</FirstName>
+<LastName>Lucas</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>05 90 92 11 36</Phone>
+<Email>consectetuer.euismod@ullamcorper.edu</Email>
+</Student>
+<Student>
+<ID>5</ID>
+<CNE>184388256</CNE>
+<DateofBirth>1997-02-11</DateofBirth>
+<FirstName>Cruz</FirstName>
+<LastName>Lambert</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>04 14 96 95 40</Phone>
+<Email>non.feugiat.nec@atauctorullamcorper.net</Email>
+</Student>
+<Student>
+<ID>6</ID>
+<CNE>191834513</CNE>
+<DateofBirth>1997-02-28</DateofBirth>
+<FirstName>Oliver</FirstName>
+<LastName>Yates</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>09 39 78 46 09</Phone>
+<Email>sit.amet@asollicitudinorci.ca</Email>
+</Student>
+<Student>
+<ID>7</ID>
+<CNE>173799304</CNE>
+<DateofBirth>1997-06-15</DateofBirth>
+<FirstName>Pate</FirstName>
+<LastName>Kline</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>02 41 57 67 44</Phone>
+<Email>in@Morbiaccumsan.net</Email>
+</Student>
+<Student>
+<ID>8</ID>
+<CNE>178729539</CNE>
+<DateofBirth>1997-09-14</DateofBirth>
+<FirstName>Mcpherson</FirstName>
+<LastName>Carroll</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>02 32 58 90 14</Phone>
+<Email>pellentesque.eget.dictum@convallisest.net</Email>
+</Student>
+<Student>
+<ID>9</ID>
+<CNE>187793784</CNE>
+<DateofBirth>1997-10-06</DateofBirth>
+<FirstName>Conley</FirstName>
+<LastName>Cobb</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>06 22 54 89 58</Phone>
+<Email>Aliquam@posuere.org</Email>
+</Student>
+<Student>
+<ID>10</ID>
+<CNE>198012327</CNE>
+<DateofBirth>1997-03-31</DateofBirth>
+<FirstName>Noel</FirstName>
+<LastName>Fuller</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>05 35 78 39 14</Phone>
+<Email>non@magnaCrasconvallis.com</Email>
+</Student>
+<Student>
+<ID>11</ID>
+<CNE>174873310</CNE>
+<DateofBirth>1997-06-29</DateofBirth>
+<FirstName>Delgado</FirstName>
+<LastName>Hudson</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>03 45 88 33 87</Phone>
+<Email>malesuada.vel.convallis@ultricesposuerecubilia.com</Email>
+</Student>
+<Student>
+<ID>12</ID>
+<CNE>186455166</CNE>
+<DateofBirth>1997-01-12</DateofBirth>
+<FirstName>Bentley</FirstName>
+<LastName>Ross</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>08 17 18 21 30</Phone>
+<Email>est@Nuncsed.ca</Email>
+</Student>
+<Student>
+<ID>13</ID>
+<CNE>193026033</CNE>
+<DateofBirth>1997-02-03</DateofBirth>
+<FirstName>Larson</FirstName>
+<LastName>Potts</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>06 41 19 34 32</Phone>
+<Email>Cras.interdum.Nunc@enimNunc.org</Email>
+</Student>
+<Student>
+<ID>14</ID>
+<CNE>189876898</CNE>
+<DateofBirth>1997-02-18</DateofBirth>
+<FirstName>Oconnor</FirstName>
+<LastName>Hopkins</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>08 34 20 86 52</Phone>
+<Email>erat.neque@laoreetlectus.org</Email>
+</Student>
+<Student>
+<ID>15</ID>
+<CNE>184092273</CNE>
+<DateofBirth>1997-01-21</DateofBirth>
+<FirstName>Tyler</FirstName>
+<LastName>Savage</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>02 98 23 46 62</Phone>
+<Email>massa.Suspendisse.eleifend@nonenim.com</Email>
+</Student>
+<Student>
+<ID>16</ID>
+<CNE>163263347</CNE>
+<DateofBirth>1997-09-03</DateofBirth>
+<FirstName>Lynch</FirstName>
+<LastName>Kidd</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>03 64 83 64 23</Phone>
+<Email>nec.tellus@lectusquismassa.edu</Email>
+</Student>
+<Student>
+<ID>17</ID>
+<CNE>160178804</CNE>
+<DateofBirth>1997-06-20</DateofBirth>
+<FirstName>Dickerson</FirstName>
+<LastName>Boyer</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>04 62 32 29 10</Phone>
+<Email>Suspendisse.commodo@estac.net</Email>
+</Student>
+<Student>
+<ID>18</ID>
+<CNE>161373907</CNE>
+<DateofBirth>1997-07-05</DateofBirth>
+<FirstName>Sparks</FirstName>
+<LastName>Merrill</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>07 11 01 98 90</Phone>
+<Email>nonummy.Fusce@Donecat.org</Email>
+</Student>
+<Student>
+<ID>19</ID>
+<CNE>173921748</CNE>
+<DateofBirth>1997-10-31</DateofBirth>
+<FirstName>Tucker</FirstName>
+<LastName>Elliott</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>08 90 39 99 25</Phone>
+<Email>vel.turpis.Aliquam@acmi.com</Email>
+</Student>
+<Student>
+<ID>20</ID>
+<CNE>196061530</CNE>
+<DateofBirth>1997-09-11</DateofBirth>
+<FirstName>Mcconnell</FirstName>
+<LastName>Dyer</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>09 06 64 09 53</Phone>
+<Email>turpis@risusquis.co.uk</Email>
+</Student>
+<Student>
+<ID>21</ID>
+<CNE>193710775</CNE>
+<DateofBirth>1997-04-21</DateofBirth>
+<FirstName>Calderon</FirstName>
+<LastName>Gallegos</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>01 75 18 36 60</Phone>
+<Email>elit@ipsum.ca</Email>
+</Student>
+<Student>
+<ID>22</ID>
+<CNE>161551408</CNE>
+<DateofBirth>1997-01-07</DateofBirth>
+<FirstName>Finley</FirstName>
+<LastName>Bray</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>05 49 65 26 71</Phone>
+<Email>et.ultrices.posuere@nonmagna.org</Email>
+</Student>
+<Student>
+<ID>23</ID>
+<CNE>191342069</CNE>
+<DateofBirth>1997-09-21</DateofBirth>
+<FirstName>Crane</FirstName>
+<LastName>Robbins</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>04 28 72 83 15</Phone>
+<Email>iaculis.quis.pede@Sedetlibero.net</Email>
+</Student>
+<Student>
+<ID>24</ID>
+<CNE>180806967</CNE>
+<DateofBirth>1997-07-17</DateofBirth>
+<FirstName>Farmer</FirstName>
+<LastName>Lucas</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>06 74 00 95 37</Phone>
+<Email>semper.pretium@odiosagittissemper.org</Email>
+</Student>
+<Student>
+<ID>25</ID>
+<CNE>182146215</CNE>
+<DateofBirth>1997-03-19</DateofBirth>
+<FirstName>Holcomb</FirstName>
+<LastName>Navarro</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>07 68 27 90 57</Phone>
+<Email>Cras.lorem@senectuset.org</Email>
+</Student>
+<Student>
+<ID>26</ID>
+<CNE>176851333</CNE>
+<DateofBirth>1997-07-30</DateofBirth>
+<FirstName>Whitney</FirstName>
+<LastName>Hooper</LastName>
+<ClasseName>GINF3</ClasseName>
+<Phone>01 22 04 25 69</Phone>
+<Email>Phasellus@laciniaatiaculis.com</Email>
+</Student>
+</Students>

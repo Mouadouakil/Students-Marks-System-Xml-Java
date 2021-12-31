@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GSTR31 telecom3</ModuleName>
+<ElementName>traitement num du signal</ElementName>
+<ElementName>com numerique</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR32 reseaux2 </ModuleName>
+<ElementName>protocoles et concepts de routage</ElementName>
+<ElementName>communication de reseau local </ElementName>
+<ElementName>techno WAN </ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR33 telecom 4 </ModuleName>
+<ElementName>guide ondes </ElementName>
+<ElementName>propagation radio </ElementName>
+<ElementName>tp telecom1</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR34 telecom 5 </ModuleName>
+<ElementName>antennes </ElementName>
+<ElementName>dispositifs micro ondes </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR35 info2</ModuleName>
+<ElementName>archi mobiles </ElementName>
+<ElementName>programmation VHDL </ElementName>
+<ElementName>dev WEB JEE</ElementName>
+<Dept_Attachement>SIC </Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR36 langues et com 2 </ModuleName>
+<ElementName>espagnol 2 allemand </ElementName>
+<ElementName>anglais pro</ElementName>
+<ElementName>techniques de com </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR41 telecom 6 </ModuleName>
+<ElementName>fibres optiques </ElementName>
+<ElementName>liaisons optiques </ElementName>
+<ElementName>tp telecom2</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR42 traitement image et de la parole</ModuleName>
+<ElementName>traitement de l image </ElementName>
+<ElementName>traitement et codage de la parole </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR43 reseaux 3</ModuleName>
+<ElementName>reseaux de transport </ElementName>
+<ElementName>voix ip PABX </ElementName>
+<ElementName>archi des centres de donnees </ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR44 reseaux 4 </ModuleName>
+<ElementName>programmation reseaux</ElementName>
+<ElementName>administration reseaux</ElementName>
+<ElementName>administration systemes </ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR45 reseaux mobiles 1</ModuleName>
+<ElementName>reseaux mobiles 1</ElementName>
+<ElementName>reseuax WPAN WLAN </ElementName>
+<ElementName>TP reseaux </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR46 management 2</ModuleName>
+<ElementName>eco et compta 2</ElementName>
+<ElementName>projets collectif et stages </ElementName>
+<ElementName>management de projets </ElementName>
+<Dept_Attachement>SIC </Dept_Attachement>
+</Module>
+</Modules>

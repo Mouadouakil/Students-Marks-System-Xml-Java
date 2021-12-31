@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<emploidutemps>
+<emploidutemps_avant_cc>
+  <filiere>GINF2</filiere>
+  <groupe>GINF2</groupe>
+  <semaine>4éme semaine avant cc</semaine>
+  
+  <heures>
+    <heure debut="9h00-10h30">
+      <lundi jour="13" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere>Programmation java</matiere>
+          <professeur>El hadad Mohamed</professeur>
+          <salle>B19</salle>
+        </cours>
+        
+      </lundi>
+      
+      <mardi jour="14" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere>Administration systéme </matiere>
+          <professeur>Amechnoue Khalid</professeur>
+          <salle>B14</salle>
+        </cours>
+      </mardi>  
+      <mercredi jour="15" mois="novembre">
+        <cours heure="4" groupe="2">
+          <matiere>Cycle de vie logiciel </matiere>
+          <professeur>Hassan Badir</professeur>
+          <salle>B14</salle>
+        </cours>
+        
+      </mercredi>
+      <jeudi jour="15" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere>UML </matiere>
+          <professeur>ALAMI Mohamed</professeur>
+          <salle>B19</salle>
+        </cours>
+      </jeudi>
+      <vendredi jour="16" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere>Optimisation des bases de données </matiere>
+          <professeur>Fissoune Rachida</professeur>
+          <salle>B19</salle>
+        </cours>
+      </vendredi>
+    </heure>
+    <heure debut="10h45-12h30">
+      <lundi jour="13" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere> TD Programmation java</matiere>
+          <professeur>El hadad Mohamed</professeur>
+          <salle>B19</salle>
+        </cours>
+      </lundi>
+      <mardi jour="14" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere> TD Administration systéme </matiere>
+          <professeur>Amechnoue Khalid</professeur>
+          <salle>B14</salle>
+        </cours>
+      </mardi>
+      <jeudi jour="15" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere>IHM </matiere>
+          <professeur>ALAMI Mohamed</professeur>
+          <salle>B21</salle>
+        </cours>
+      </jeudi>
+      <vendredi jour="16" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere>Qualité et Optimisation des processus   </matiere>
+          <professeur>Rahali </professeur>
+          <salle>B19</salle>
+        </cours>
+      </vendredi> 
+    </heure>
+    
+    <heure debut="13h45-15h30">
+      <lundi jour="13" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere> TD UML</matiere>
+          <professeur>ALAMI Mohamed</professeur>
+          <salle>B14</salle>
+        </cours>
+      </lundi>
+      <mardi jour="14" mois="novembre">
+        <cours heure="4" groupe="2">
+          <matiere>XML </matiere>
+          <professeur>Lachgar</professeur>
+          <salle>B14</salle>
+        </cours>
+      </mardi>
+      <mercredi jour="15" mois="novembre">
+        <cours heure="4" groupe="2">
+          <matiere>TEC </matiere>
+          <professeur>ZAAMOUMI AMAL</professeur>
+          <salle>AMPHI2</salle>
+        </cours>
+        
+      </mercredi>
+      <jeudi jour="15" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere>TD OPTIM BD </matiere>
+          <professeur>Fissoune Rachida</professeur>
+          <salle>B19</salle>
+        </cours>
+      </jeudi>
+    </heure>
+    <heure debut="16h00-17h30">
+      <lundi jour="13" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere> ESPAGNOL</matiere>
+          <professeur>Laamarti </professeur>
+          <salle>B21</salle>
+        </cours>
+      </lundi>
+      <jeudi jour="15" mois="novembre">
+        <cours heure="2" groupe="2">
+          <matiere>ANGLAIS </matiere>
+          <professeur></professeur>
+          <salle>AMPHI3</salle>
+        </cours>
+      </jeudi>
+    </heure>
+  </heures>
+</emploidutemps_avant_cc>
+  
+<emploidutemps_apres_cc>
+    <filiere>GINF2</filiere>
+    <groupe>GINF2</groupe>
+    <semaine>6 éme semaine apres cc</semaine>
+    
+    <heures>
+      <heure debut="9h00-10h30">
+        <lundi jour="18" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>Cycle de vie logiciels</matiere>
+            <professeur>Badir Hassan</professeur>
+            <salle>B19</salle>
+          </cours>
+        </lundi>
+        
+        <mardi jour="19" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>BDD reparties </matiere>
+            <professeur>Fissoune Rachida</professeur>
+            <salle>B14</salle>
+          </cours>
+        </mardi> 
+        
+        <mercredi jour="20" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>POO JAVA </matiere>
+            <professeur>EL Haddad Mohamed</professeur>
+            <salle>B14</salle>
+          </cours>  
+        </mercredi>
+        
+        <jeudi jour="21" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>UML </matiere>
+            <professeur>ALAMI Mohamed</professeur>
+            <salle>B19</salle>
+          </cours>
+        </jeudi>
+        
+        <vendredi jour="22" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>IHM </matiere>
+            <professeur>ALAMI Mohamed</professeur>
+            <salle>B19</salle>
+          </cours>
+        </vendredi>   
+      </heure>
+      
+      
+      <heure debut="10h45-12h30">
+        <lundi jour="18" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>Cycle de vie logiciels</matiere>
+            <professeur>Badir Hassan</professeur>
+            <salle>B19</salle>
+          </cours>
+        </lundi>
+        
+        <mardi jour="19" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>BDD reparties </matiere>
+            <professeur>Fissoune Rachida</professeur>
+            <salle>B14</salle>
+          </cours>
+        </mardi>
+        
+        <mercredi jour="20" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>POO JAVA </matiere>
+            <professeur>EL Haddad Mohamed</professeur>
+            <salle>B14</salle>
+          </cours> 
+        </mercredi>
+        
+        <jeudi jour="21" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>UML</matiere>
+            <professeur>ALAMI Mohamed</professeur>
+            <salle>B21</salle>
+          </cours>
+        </jeudi>
+        
+        <vendredi jour="22" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>IHM </matiere>
+            <professeur>ALAMI Mohamed</professeur>
+            <salle>B19</salle>
+          </cours>
+        </vendredi> 
+      </heure>
+      
+      <heure debut="13h45-15h30">
+        <lundi jour="18" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>Programmation système</matiere>
+            <professeur>Amechnoue Khalid</professeur>
+            <salle>B14</salle>
+          </cours>
+        </lundi>
+        
+        <mardi jour="19" mois="janvier">
+          <cours heure="4 " groupe="2">
+            <matiere>Espagnol</matiere>
+            <professeur>Laamarti</professeur>
+            <salle>Amphi2</salle>
+          </cours>
+        </mardi>
+       
+        <jeudi jour="21" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>TEC</matiere>
+            <professeur>Zaamoumi</professeur>
+            <salle>A8</salle>
+          </cours>
+        </jeudi>
+        <vendredi jour="22" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>Qualité</matiere>
+            <professeur>CHICHI</professeur>
+            <salle>Amphi3</salle>
+          </cours>
+        </vendredi>
+      </heure>
+      <heure debut="16h00-17h30">
+        <lundi jour="18" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>Programmation système</matiere>
+            <professeur>Amechnoue Khalid</professeur>
+            <salle>B14</salle>
+          </cours>
+        </lundi>
+        
+        
+        
+        <jeudi jour="21" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>TEC</matiere>
+            <professeur>Zaamoumi</professeur>
+            <salle>A8</salle>
+          </cours>
+        </jeudi>
+        
+        <vendredi jour="22" mois="janvier">
+          <cours heure="2" groupe="2">
+            <matiere>Qualité</matiere>
+            <professeur>CHICHI</professeur>
+            <salle>Amphi3</salle>
+          </cours>
+        </vendredi>
+        
+      </heure>
+    </heures>
+  </emploidutemps_apres_cc>
+</emploidutemps>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card  xmlns="http://businesscard.org">
+    <title>CARTE D'ETUDIANT</title>
+    <LastName>ADRAOUI</LastName>
+    <FirstName>kHAWLA</FirstName>
+    <CNE>17004857</CNE>
+    <Cin>KB19756</Cin>
+    <Inscription>Année:2020/2021</Inscription>
+    <logo uri="avatar.png"/>
+</card>
+

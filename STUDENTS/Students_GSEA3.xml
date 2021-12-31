@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Students.xsd">
+<Student>
+<ID>1</ID>
+<CNE>307594514</CNE>
+<DateofBirth>1997-10-09</DateofBirth>
+<FirstName>Fitzgerald</FirstName>
+<LastName>Cotton</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>05 70 31 03 97</Phone>
+<Email>non.sapien.molestie@disparturientmontes.org</Email>
+</Student>
+<Student>
+<ID>2</ID>
+<CNE>325673426</CNE>
+<DateofBirth>1997-07-11</DateofBirth>
+<FirstName>Pickett</FirstName>
+<LastName>Norris</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>04 28 74 58 14</Phone>
+<Email>dui.Cum@id.co.uk</Email>
+</Student>
+<Student>
+<ID>3</ID>
+<CNE>298360929</CNE>
+<DateofBirth>1997-07-28</DateofBirth>
+<FirstName>Hale</FirstName>
+<LastName>Wheeler</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>06 41 94 58 22</Phone>
+<Email>lacus.varius@nonleo.co.uk</Email>
+</Student>
+<Student>
+<ID>4</ID>
+<CNE>219695411</CNE>
+<DateofBirth>1997-09-22</DateofBirth>
+<FirstName>Benjamin</FirstName>
+<LastName>Michael</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>07 62 33 28 32</Phone>
+<Email>Curae.Phasellus@imperdiet.net</Email>
+</Student>
+<Student>
+<ID>5</ID>
+<CNE>187916625</CNE>
+<DateofBirth>1997-02-11</DateofBirth>
+<FirstName>Bowen</FirstName>
+<LastName>Stanton</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>06 21 55 91 71</Phone>
+<Email>eu@ametornare.ca</Email>
+</Student>
+<Student>
+<ID>6</ID>
+<CNE>212600267</CNE>
+<DateofBirth>1997-02-28</DateofBirth>
+<FirstName>Oconnor</FirstName>
+<LastName>Richmond</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>04 71 68 28 30</Phone>
+<Email>tincidunt.vehicula.risus@diam.edu</Email>
+</Student>
+<Student>
+<ID>7</ID>
+<CNE>219850612</CNE>
+<DateofBirth>1997-06-15</DateofBirth>
+<FirstName>Cooke</FirstName>
+<LastName>Rivers</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>02 13 48 87 98</Phone>
+<Email>lorem.semper@Donec.edu</Email>
+</Student>
+<Student>
+<ID>8</ID>
+<CNE>336861001</CNE>
+<DateofBirth>1997-09-14</DateofBirth>
+<FirstName>Beach</FirstName>
+<LastName>Vaughan</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>09 13 47 76 47</Phone>
+<Email>convallis@ornare.co.uk</Email>
+</Student>
+<Student>
+<ID>9</ID>
+<CNE>196518704</CNE>
+<DateofBirth>1997-10-06</DateofBirth>
+<FirstName>Gallagher</FirstName>
+<LastName>Romero</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>02 51 87 59 40</Phone>
+<Email>rutrum.lorem@aliquameu.edu</Email>
+</Student>
+<Student>
+<ID>10</ID>
+<CNE>199431951</CNE>
+<DateofBirth>1997-03-31</DateofBirth>
+<FirstName>Spencer</FirstName>
+<LastName>Woods</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>03 88 05 01 65</Phone>
+<Email>amet.lorem@SuspendisseduiFusce.co.uk</Email>
+</Student>
+<Student>
+<ID>11</ID>
+<CNE>220600492</CNE>
+<DateofBirth>1997-06-29</DateofBirth>
+<FirstName>Hampton</FirstName>
+<LastName>Hester</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>01 70 49 79 06</Phone>
+<Email>neque@aarcu.org</Email>
+</Student>
+<Student>
+<ID>12</ID>
+<CNE>286074367</CNE>
+<DateofBirth>1997-01-12</DateofBirth>
+<FirstName>Gates</FirstName>
+<LastName>Figueroa</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>06 74 74 54 27</Phone>
+<Email>Curabitur@malesuadafames.ca</Email>
+</Student>
+<Student>
+<ID>13</ID>
+<CNE>209824808</CNE>
+<DateofBirth>1997-02-03</DateofBirth>
+<FirstName>Fischer</FirstName>
+<LastName>Dominguez</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>02 94 26 57 43</Phone>
+<Email>parturient.montes.nascetur@Vivamussitamet.ca</Email>
+</Student>
+<Student>
+<ID>14</ID>
+<CNE>191708276</CNE>
+<DateofBirth>1997-02-18</DateofBirth>
+<FirstName>Puckett</FirstName>
+<LastName>George</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>03 88 71 42 78</Phone>
+<Email>augue@loremeget.edu</Email>
+</Student>
+<Student>
+<ID>15</ID>
+<CNE>222072253</CNE>
+<DateofBirth>1997-01-21</DateofBirth>
+<FirstName>Glover</FirstName>
+<LastName>Mcknight</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>07 06 11 77 77</Phone>
+<Email>tempus.mauris.erat@neceuismod.net</Email>
+</Student>
+<Student>
+<ID>16</ID>
+<CNE>16020307</CNE>
+<DateofBirth>1997-09-03</DateofBirth>
+<FirstName>Mays</FirstName>
+<LastName>Wilder</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>02 08 80 60 30</Phone>
+<Email>et.netus.et@Curabiturdictum.edu</Email>
+</Student>
+<Student>
+<ID>17</ID>
+<CNE>16871112</CNE>
+<DateofBirth>1997-06-20</DateofBirth>
+<FirstName>Rocha</FirstName>
+<LastName>Wilkinson</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>06 74 29 24 48</Phone>
+<Email>libero@Nullam.com</Email>
+</Student>
+<Student>
+<ID>18</ID>
+<CNE>16301010</CNE>
+<DateofBirth>1997-07-05</DateofBirth>
+<FirstName>Rich</FirstName>
+<LastName>Smith</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>07 97 45 17 28</Phone>
+<Email>malesuada.vel.convallis@risus.edu</Email>
+</Student>
+<Student>
+<ID>19</ID>
+<CNE>16530228</CNE>
+<DateofBirth>1997-10-31</DateofBirth>
+<FirstName>Mack</FirstName>
+<LastName>Larson</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>07 36 51 51 40</Phone>
+<Email>tempor@eratvolutpatNulla.edu</Email>
+</Student>
+<Student>
+<ID>20</ID>
+<CNE>16140326</CNE>
+<DateofBirth>1997-09-11</DateofBirth>
+<FirstName>Reid</FirstName>
+<LastName>Morris</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>04 34 92 29 19</Phone>
+<Email>et.netus.et@Vivamusnonlorem.ca</Email>
+</Student>
+<Student>
+<ID>21</ID>
+<CNE>16400928</CNE>
+<DateofBirth>1997-04-21</DateofBirth>
+<FirstName>Moses</FirstName>
+<LastName>Lang</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>01 23 48 03 09</Phone>
+<Email>Curabitur@etlacinia.co.uk</Email>
+</Student>
+<Student>
+<ID>22</ID>
+<CNE>16450723</CNE>
+<DateofBirth>1997-01-07</DateofBirth>
+<FirstName>Short</FirstName>
+<LastName>Burgess</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>02 88 40 72 94</Phone>
+<Email>vel@adlitoratorquent.edu</Email>
+</Student>
+<Student>
+<ID>23</ID>
+<CNE>16220519</CNE>
+<DateofBirth>1997-09-21</DateofBirth>
+<FirstName>Stone</FirstName>
+<LastName>Tanner</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>06 57 97 50 94</Phone>
+<Email>Quisque.nonummy@lectusNullam.org</Email>
+</Student>
+<Student>
+<ID>24</ID>
+<CNE>16831227</CNE>
+<DateofBirth>1997-07-17</DateofBirth>
+<FirstName>Sparks</FirstName>
+<LastName>Fields</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>09 04 96 53 21</Phone>
+<Email>sociis@euismodurnaNullam.org</Email>
+</Student>
+<Student>
+<ID>25</ID>
+<CNE>16020130</CNE>
+<DateofBirth>1997-03-19</DateofBirth>
+<FirstName>Solomon</FirstName>
+<LastName>Madden</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>06 56 45 38 00</Phone>
+<Email>quis@vestibulumneque.org</Email>
+</Student>
+<Student>
+<ID>26</ID>
+<CNE>16690410</CNE>
+<DateofBirth>1997-07-30</DateofBirth>
+<FirstName>Mckay</FirstName>
+<LastName>Lloyd</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>05 54 62 97 37</Phone>
+<Email>rutrum.non.hendrerit@nonenimcommodo.com</Email>
+</Student>
+<Student>
+<ID>27</ID>
+<CNE>294038887</CNE>
+<DateofBirth>1997-11-24</DateofBirth>
+<FirstName>Cline</FirstName>
+<LastName>Pratt</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>08 68 14 90 21</Phone>
+<Email>scelerisque.neque@sit.ca</Email>
+</Student>
+<Student>
+<ID>28</ID>
+<CNE>296273074</CNE>
+<DateofBirth>1997-10-03</DateofBirth>
+<FirstName>Sutton</FirstName>
+<LastName>Sargent</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>08 82 32 18 20</Phone>
+<Email>Cras.sed@lobortisquama.org</Email>
+</Student>
+<Student>
+<ID>29</ID>
+<CNE>226299332</CNE>
+<DateofBirth>1997-08-26</DateofBirth>
+<FirstName>Morris</FirstName>
+<LastName>Boone</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>07 31 26 49 54</Phone>
+<Email>adipiscing@sitamet.com</Email>
+</Student>
+<Student>
+<ID>30</ID>
+<CNE>230123094</CNE>
+<DateofBirth>1997-11-20</DateofBirth>
+<FirstName>Wilkinson</FirstName>
+<LastName>Conner</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>07 36 82 96 21</Phone>
+<Email>purus@sitamet.com</Email>
+</Student>
+<Student>
+<ID>31</ID>
+<CNE>191568658</CNE>
+<DateofBirth>1997-05-30</DateofBirth>
+<FirstName>Taylor</FirstName>
+<LastName>Berg</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>03 45 56 82 04</Phone>
+<Email>quis.massa@DonecnibhQuisque.org</Email>
+</Student>
+<Student>
+<ID>32</ID>
+<CNE>240621398</CNE>
+<DateofBirth>1997-02-20</DateofBirth>
+<FirstName>Guy</FirstName>
+<LastName>Kim</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>09 62 90 49 19</Phone>
+<Email>Donec.tincidunt.Donec@magnaSuspendisse.com</Email>
+</Student>
+<Student>
+<ID>33</ID>
+<CNE>221160310</CNE>
+<DateofBirth>1997-12-03</DateofBirth>
+<FirstName>Savage</FirstName>
+<LastName>Barr</LastName>
+<ClasseName>GSEA3</ClasseName>
+<Phone>01 95 79 01 30</Phone>
+<Email>sodales.purus@iaculislacuspede.org</Email>
+</Student>
+</Students>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Students.xsd">
+<Student>
+<ID>1</ID>
+<CNE>228759693</CNE>
+<DateofBirth>1999-10-11</DateofBirth>
+<FirstName>Aguirre</FirstName>
+<LastName>Clark</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>08 06 98 97 19</Phone>
+<Email>Donec.est.mauris@dictumplacerataugue.com</Email>
+</Student>
+<Student>
+<ID>2</ID>
+<CNE>217009019</CNE>
+<DateofBirth>1999-08-01</DateofBirth>
+<FirstName>Odom</FirstName>
+<LastName>Miles</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>09 80 09 24 50</Phone>
+<Email>Curabitur.dictum.Phasellus@ridiculusmusAenean.com</Email>
+</Student>
+<Student>
+<ID>3</ID>
+<CNE>253172430</CNE>
+<DateofBirth>1999-06-09</DateofBirth>
+<FirstName>Rich</FirstName>
+<LastName>Fowler</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>04 03 86 37 20</Phone>
+<Email>semper@ipsumPhasellus.edu</Email>
+</Student>
+<Student>
+<ID>4</ID>
+<CNE>270185581</CNE>
+<DateofBirth>1999-04-06</DateofBirth>
+<FirstName>Obrien</FirstName>
+<LastName>Ratliff</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>04 04 81 99 78</Phone>
+<Email>litora.torquent.per@nuncnullavulputate.org</Email>
+</Student>
+<Student>
+<ID>5</ID>
+<CNE>285509684</CNE>
+<DateofBirth>1999-06-28</DateofBirth>
+<FirstName>Bridges</FirstName>
+<LastName>Estrada</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>03 04 58 05 55</Phone>
+<Email>Nunc@liberoProin.net</Email>
+</Student>
+<Student>
+<ID>6</ID>
+<CNE>207598720</CNE>
+<DateofBirth>1999-09-28</DateofBirth>
+<FirstName>White</FirstName>
+<LastName>Rocha</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>09 27 20 40 68</Phone>
+<Email>lectus@magnisdis.net</Email>
+</Student>
+<Student>
+<ID>7</ID>
+<CNE>251351354</CNE>
+<DateofBirth>1999-03-12</DateofBirth>
+<FirstName>Hardin</FirstName>
+<LastName>Howe</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>05 11 07 82 45</Phone>
+<Email>velit.Cras.lorem@Integer.co.uk</Email>
+</Student>
+<Student>
+<ID>8</ID>
+<CNE>298589351</CNE>
+<DateofBirth>1999-05-15</DateofBirth>
+<FirstName>Hoover</FirstName>
+<LastName>Chapman</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>04 17 74 61 29</Phone>
+<Email>consectetuer.rhoncus.Nullam@faucibus.org</Email>
+</Student>
+<Student>
+<ID>9</ID>
+<CNE>182607361</CNE>
+<DateofBirth>1999-02-16</DateofBirth>
+<FirstName>Gilmore</FirstName>
+<LastName>Jackson</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>04 94 88 62 41</Phone>
+<Email>imperdiet@nullaInteger.co.uk</Email>
+</Student>
+<Student>
+<ID>10</ID>
+<CNE>259495670</CNE>
+<DateofBirth>1999-03-19</DateofBirth>
+<FirstName>Hunter</FirstName>
+<LastName>Bradford</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>07 18 73 74 58</Phone>
+<Email>ultrices.Vivamus@ut.org</Email>
+</Student>
+<Student>
+<ID>11</ID>
+<CNE>210287353</CNE>
+<DateofBirth>1999-09-13</DateofBirth>
+<FirstName>Miller</FirstName>
+<LastName>Gallagher</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>05 10 30 16 59</Phone>
+<Email>tempus.lorem@consequat.net</Email>
+</Student>
+<Student>
+<ID>12</ID>
+<CNE>289556745</CNE>
+<DateofBirth>1999-08-08</DateofBirth>
+<FirstName>Blair</FirstName>
+<LastName>Preston</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>04 14 50 74 60</Phone>
+<Email>cursus@risusNullaeget.com</Email>
+</Student>
+<Student>
+<ID>13</ID>
+<CNE>274410266</CNE>
+<DateofBirth>1999-04-23</DateofBirth>
+<FirstName>Mccall</FirstName>
+<LastName>Guerra</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>03 06 47 63 47</Phone>
+<Email>ultrices.mauris@tincidunt.ca</Email>
+</Student>
+<Student>
+<ID>14</ID>
+<CNE>215046071</CNE>
+<DateofBirth>1999-09-09</DateofBirth>
+<FirstName>Hancock</FirstName>
+<LastName>Dotson</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>02 43 07 94 37</Phone>
+<Email>ullamcorper.velit.in@metusurnaconvallis.com</Email>
+</Student>
+<Student>
+<ID>15</ID>
+<CNE>192729204</CNE>
+<DateofBirth>1999-03-26</DateofBirth>
+<FirstName>Hebert</FirstName>
+<LastName>Estrada</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>01 75 73 91 04</Phone>
+<Email>felis.Donec@pretium.org</Email>
+</Student>
+<Student>
+<ID>16</ID>
+<CNE>257887552</CNE>
+<DateofBirth>1999-02-04</DateofBirth>
+<FirstName>Cooley</FirstName>
+<LastName>Carpenter</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>01 64 47 34 98</Phone>
+<Email>neque.vitae@tristiqueaceleifend.org</Email>
+</Student>
+<Student>
+<ID>17</ID>
+<CNE>187696011</CNE>
+<DateofBirth>1999-07-17</DateofBirth>
+<FirstName>Barrett</FirstName>
+<LastName>Mcintosh</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>04 13 91 30 02</Phone>
+<Email>Fusce.aliquam.enim@augueidante.net</Email>
+</Student>
+<Student>
+<ID>18</ID>
+<CNE>209040425</CNE>
+<DateofBirth>1999-05-27</DateofBirth>
+<FirstName>Black</FirstName>
+<LastName>Dickson</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>02 26 16 44 66</Phone>
+<Email>tristique.senectus.et@neque.org</Email>
+</Student>
+<Student>
+<ID>19</ID>
+<CNE>250747341</CNE>
+<DateofBirth>1999-04-22</DateofBirth>
+<FirstName>Briggs</FirstName>
+<LastName>Dudley</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>02 35 90 24 46</Phone>
+<Email>lectus.a@arcu.co.uk</Email>
+</Student>
+<Student>
+<ID>20</ID>
+<CNE>237382665</CNE>
+<DateofBirth>1999-04-14</DateofBirth>
+<FirstName>Stafford</FirstName>
+<LastName>Harmon</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>03 65 11 90 37</Phone>
+<Email>fringilla.cursus.purus@porttitorscelerisque.org</Email>
+</Student>
+<Student>
+<ID>21</ID>
+<CNE>299493655</CNE>
+<DateofBirth>1999-08-14</DateofBirth>
+<FirstName>Ward</FirstName>
+<LastName>England</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>03 00 44 64 58</Phone>
+<Email>ultricies.dignissim@fringillaornare.com</Email>
+</Student>
+<Student>
+<ID>22</ID>
+<CNE>286808919</CNE>
+<DateofBirth>1999-09-09</DateofBirth>
+<FirstName>Ewing</FirstName>
+<LastName>Simon</LastName>
+<ClasseName>G3EI1</ClasseName>
+<Phone>07 13 80 48 54</Phone>
+<Email>elit.a.feugiat@sitamet.ca</Email>
+</Student>
+</Students>

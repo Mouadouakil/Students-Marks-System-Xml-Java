@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GSTR51 reseaux mobiles </ModuleName>
+<ElementName>reseaux mobiles et nouvelle generation </ElementName>
+<ElementName>techniques emergentes en com numerique </ElementName>
+<ElementName>signalisation </ElementName>
+<Dept_Attachement>SIC </Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR52 securite et interconnexion des reseaux </ModuleName>
+<ElementName>securite de reseaux </ElementName>
+<ElementName>crypto</ElementName>
+<ElementName>interconnexion des reseaux prives </ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR53 telecom 7 </ModuleName>
+<ElementName>reseaux de capteurs sans fils </ElementName>
+<ElementName>telecom satellitaires </ElementName>
+<ElementName>haut debit et technologies des reseaux tout optique </ElementName>
+<Dept_Attachement>SIC </Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR54 info 3 </ModuleName>
+<ElementName>fouille donnes </ElementName>
+<ElementName>dev mobile </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR55 telecom 8 </ModuleName>
+<ElementName>architecture des sys radio </ElementName>
+<ElementName>tp telecom 3 </ElementName>
+<ElementName>projets telecom </ElementName>
+<Dept_Attachement>SIC </Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR56 management 3 </ModuleName>
+<ElementName>creation d entreprises </ElementName>
+<ElementName>seminaires projet libre stage </ElementName>
+<ElementName>simulation d entretien d embauche</ElementName>
+<Dept_Attachement>SIC </Dept_Attachement>
+</Module>
+</Modules>

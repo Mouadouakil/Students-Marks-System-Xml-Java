@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NotesClasse>
+    <Note>
+        <CNE>DS54373</CNE>
+        <FirstName>ANAS</FirstName>
+        <LastName>ADRAOUI</LastName>
+        <matiere codeMat='GINF11' note ='17'>17</matiere> 
+        <matiere codeMat='GINF12' note ='12'>12</matiere> 
+        <matiere codeMat='GINF13' note ='14'>14</matiere> 
+        <matiere codeMat='GINF14' note ='16'>16</matiere> 
+        <matiere codeMat='GINF15' note ='13'>13</matiere> 
+        <matiere codeMat='GINF21' note='10'>10</matiere>
+        <matiere codeMat='GINF22' note='9'>9</matiere>
+        <matiere codeMat='GINF23' note='16'>16</matiere>
+        <matiere codeMat='GINF24' note='18'>18</matiere>
+        <matiere codeMat='GINF25' note='9'>9</matiere>
+        <matiere codeMat='GINF26' note='14'>14</matiere>
+      
+    </Note> 
+    <Note>
+    <CNE>K1283123</CNE>
+    <FirstName>Maria</FirstName>
+    <LastName>ETOILE</LastName>
+    <matiere codeMat='GINF11' note ='12'>12</matiere> 
+    <matiere codeMat='GINF12' note ='17'>17</matiere> 
+    <matiere codeMat='GINF13' note ='13'>13</matiere> 
+    <matiere codeMat='GINF14' note ='15'>15</matiere> 
+    <matiere codeMat='GINF15' note ='11'>11</matiere> 
+    <matiere codeMat='GINF21' note='10'>10</matiere>
+    <matiere codeMat='GINF22' note='14'>14</matiere>
+    <matiere codeMat='GINF23' note='14'>14</matiere>
+    <matiere codeMat='GINF24' note='18'>18</matiere>
+    <matiere codeMat='GINF25' note='10'>10</matiere>
+    <matiere codeMat='GINF26' note='13'>13</matiere>
+    
+    </Note>   
+    <Note>
+    <CNE>R128343</CNE>
+    <FirstName>INAS</FirstName>
+    <LastName>BENZAKRI</LastName>
+    <matiere codeMat='GINF11' note ='17'>17</matiere> 
+    <matiere codeMat='GINF12' note ='11'>11</matiere> 
+    <matiere codeMat='GINF13' note ='14'>14</matiere> 
+    <matiere codeMat='GINF14' note ='16'>16</matiere> 
+    <matiere codeMat='GINF15' note ='10'>10</matiere> 
+    <matiere codeMat='GINF21' note='10'>10</matiere>
+    <matiere codeMat='GINF22' note='12'>12</matiere>
+    <matiere codeMat='GINF23' note='9'>9</matiere>
+    <matiere codeMat='GINF24' note='18'>18</matiere>
+    <matiere codeMat='GINF25' note='9'>9</matiere>
+    <matiere codeMat='GINF26' note='14'>14</matiere>
+    
+    </Note> 
+    
+    <Note>
+        <CNE>F1283123</CNE>
+        <FirstName>AYMEN</FirstName>
+        <LastName>MERZOUKI</LastName>
+        <matiere codeMat='GINF11' note ='15'>15</matiere> 
+        <matiere codeMat='GINF12' note ='12'>12</matiere> 
+        <matiere codeMat='GINF13' note ='13'>13</matiere> 
+        <matiere codeMat='GINF14' note ='10'>10</matiere> 
+        <matiere codeMat='GINF15' note ='11'>11</matiere> 
+        <matiere codeMat='GINF21' note='15'>15</matiere>
+        <matiere codeMat='GINF22' note='12'>12</matiere>
+        <matiere codeMat='GINF23' note='13'>13</matiere>
+        <matiere codeMat='GINF24' note='18'>18</matiere>
+        <matiere codeMat='GINF25' note='10'>10</matiere>
+        <matiere codeMat='GINF26' note='13'>13</matiere>
+        
+    </Note> 
+    <Note>
+        <CNE>S1283124</CNE>
+        <FirstName>ANAS</FirstName>
+        <LastName>MOURTAJI</LastName>
+        <matiere codeMat='GINF11' note ='11'>11</matiere> 
+        <matiere codeMat='GINF12' note ='12'>12</matiere> 
+        <matiere codeMat='GINF13' note ='19'>19</matiere> 
+        <matiere codeMat='GINF14' note ='11'>11</matiere> 
+        <matiere codeMat='GINF15' note ='13'>13</matiere> 
+        <matiere codeMat='GINF21' note='11'>11</matiere>
+        <matiere codeMat='GINF22' note='17'>17</matiere>
+        <matiere codeMat='GINF23' note='12'>12</matiere>
+        <matiere codeMat='GINF24' note='18'>18</matiere>
+        <matiere codeMat='GINF25' note='12'>12</matiere>
+        <matiere codeMat='GINF26' note='11'>11</matiere>
+        
+    </Note> 
+    <Note>
+        <CNE>R12456712</CNE>
+        <FirstName>FAYCAL</FirstName>
+        <LastName>ELKHAL</LastName>
+        <matiere codeMat='GINF11' note ='12'>12</matiere> 
+        <matiere codeMat='GINF12' note ='12'>12</matiere> 
+        <matiere codeMat='GINF13' note ='12'>12</matiere> 
+        <matiere codeMat='GINF14' note ='13'>13</matiere> 
+        <matiere codeMat='GINF15' note ='10'>10</matiere> 
+        <matiere codeMat='GINF21' note='14'>14</matiere>
+        <matiere codeMat='GINF22' note='9'>9</matiere>
+        <matiere codeMat='GINF23' note='12'>12</matiere>
+        <matiere codeMat='GINF24' note='15'>15</matiere>
+        <matiere codeMat='GINF25' note='9'>9</matiere>
+        <matiere codeMat='GINF26' note='10'>10</matiere>
+        
+    </Note> 
+    <Note>
+        <CNE>SR123456</CNE>
+        <FirstName>AMAL</FirstName>
+        <LastName>MOURTAKI</LastName>
+        <matiere codeMat='GINF11' note ='11'>11</matiere> 
+        <matiere codeMat='GINF12' note ='12'>12</matiere> 
+        <matiere codeMat='GINF13' note ='13'>13</matiere> 
+        <matiere codeMat='GINF14' note ='15'>15</matiere> 
+        <matiere codeMat='GINF15' note ='9'>9</matiere> 
+        <matiere codeMat='GINF21' note='14'>14</matiere>
+        <matiere codeMat='GINF22' note='12'>12</matiere>
+        <matiere codeMat='GINF23' note='16'>16</matiere>
+        <matiere codeMat='GINF24' note='18'>18</matiere>
+        <matiere codeMat='GINF25' note='5'>5</matiere>
+        <matiere codeMat='GINF26' note='17'>17</matiere>
+        
+    </Note> 
+    <Note>
+        <CNE>LM196734</CNE>
+        <FirstName>AMINE</FirstName>
+        <LastName>MOURTAJI</LastName>
+        <matiere codeMat='GINF11' note ='15'>15</matiere> 
+        <matiere codeMat='GINF12' note ='16'>16</matiere> 
+        <matiere codeMat='GINF13' note ='8'>8</matiere> 
+        <matiere codeMat='GINF14' note ='13'>13</matiere> 
+        <matiere codeMat='GINF15' note ='17'>17</matiere> 
+        <matiere codeMat='GINF21' note='11'>11</matiere>
+        <matiere codeMat='GINF22' note='12'>12</matiere>
+        <matiere codeMat='GINF23' note='15'>15</matiere>
+        <matiere codeMat='GINF24' note='13'>13</matiere>
+        <matiere codeMat='GINF25' note='12'>12</matiere>
+        <matiere codeMat='GINF26' note='13'>13</matiere>
+        
+    </Note> 
+  
+    
+</NotesClasse>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GSTR11 maths pour l ing</ModuleName>
+<ElementName>analyse num</ElementName>
+<ElementName>optimisation</ElementName>
+<ElementName>statistiques appliquees</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR12 signal</ModuleName>
+<ElementName>traitement signal </ElementName>
+<ElementName>TP signal</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR13 electronique 1</ModuleName>
+<ElementName>electronique analogique</ElementName>
+<ElementName>electronique numerique</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR14 telecom1</ModuleName>
+<ElementName>ondes electromagnetiques</ElementName>
+<ElementName>lignes de transmission </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR15 automatique et reseau </ModuleName>
+<ElementName>automaatique </ElementName>
+<ElementName>concepts fondamentaux des reseaux </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR16 langues et com 1</ModuleName>
+<ElementName>methodologie de PP</ElementName>
+<ElementName>developpement perosnnel</ElementName>
+<ElementName>anglais 1 et espagnol 1</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR21 electronique 2</ModuleName>
+<ElementName> micro architecture des processeurs </ElementName>
+<ElementName>SE linux </ElementName>
+<ElementName>TP electronique </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR22 info 1</ModuleName>
+<ElementName>POO</ElementName>
+<ElementName>bases de donnees UML</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR23 theorie des graphes et app</ModuleName>
+<ElementName>theorie des graphes</ElementName>
+<ElementName>recherche op</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR24 reseaux 1 </ModuleName>
+<ElementName>Protocoles et adressage </ElementName>
+<ElementName>technologies des reseaux </ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR25 telecom 2 </ModuleName>
+<ElementName>com analogique </ElementName>
+<ElementName>theorie de l info et codage </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSTR26 management 1</ModuleName>
+<ElementName>gestion </ElementName>
+<ElementName>compta 1</ElementName>
+<ElementName>eco1</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

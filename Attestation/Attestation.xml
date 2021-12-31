@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Attestation.xsl"?>
+<Attestation>
+    <eleve>
+    <nom>ALI</nom>
+    <cne> 1EA45YTZ</cne>
+    <filiere>GINF2</filiere>
+    <moyenne>13</moyenne>
+    </eleve>
+</Attestation>

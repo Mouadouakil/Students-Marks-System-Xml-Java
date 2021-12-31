@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>Algebre1</ModuleName>
+<ElementName>Algebre1</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Analyse1</ModuleName>
+<ElementName>Analyse1</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Physique1</ModuleName>
+<ElementName>Electrocinetique</ElementName>
+<ElementName>Instrumentation1</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Mecanique1</ModuleName>
+<ElementName>Mecanique du point</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Chimie1</ModuleName>
+<ElementName>Atomistique</ElementName>
+<ElementName>Chimie Organique</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>LC1</ModuleName>
+<ElementName>Francais1</ElementName>
+<ElementName>Activites d ouvertures1</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Algebre2</ModuleName>
+<ElementName>Algebre2</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Analyse2</ModuleName>
+<ElementName>Analyse2</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Physique2</ModuleName>
+<ElementName>Electrostatique</ElementName>
+<ElementName>Magnetostatique</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Physique3</ModuleName>
+<ElementName>Optique geometrique</ElementName>
+<ElementName>Optique Physique</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Info1</ModuleName>
+<ElementName>Calcul Formel</ElementName>
+<ElementName>Outils Statistiques</ElementName>
+<ElementName>Algebre de Bool et SN </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>LC2</ModuleName>
+<ElementName>Francais2 </ElementName>
+<ElementName>Anglais1</ElementName>
+<ElementName>Sport</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

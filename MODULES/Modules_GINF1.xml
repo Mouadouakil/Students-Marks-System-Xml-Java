@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GINF11 maths pour l ing</ModuleName>
+<ElementName>analyse numerique</ElementName>
+<ElementName>optimisation </ElementName>
+<ElementName>statistiques</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF12 signal</ModuleName>
+<ElementName>traitement de signal</ElementName>
+<ElementName>probabilites</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF13 electronique 1</ModuleName>
+<ElementName>electronique numerique</ElementName>
+<ElementName>electronique analogique</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF14 programmation</ModuleName>
+<ElementName>langage C</ElementName>
+<ElementName>programmation web php</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF15 bases de donnees et reseaux</ModuleName>
+<ElementName>basesde donnees relationnelles</ElementName>
+<ElementName>concepts fondamentaux des reseaux</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF16 langues et com1</ModuleName>
+<ElementName>methodologies de PP</ElementName>
+<ElementName>developpement perosnnel</ElementName>
+<ElementName>anglais 1 et espagnol 1</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF 21 dev informatique 2</ModuleName>
+<ElementName>POO CPP</ElementName>
+<ElementName>web PHP5</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF22 bdd dev et manipulation </ModuleName>
+<ElementName>methodes de modelisation des BDD </ElementName>
+<ElementName>manipulation et dev des BDR</ElementName>
+<ElementName>PLSQL</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF23 theorie des graphes recherche op</ModuleName>
+<ElementName>theorie des graphes </ElementName>
+<ElementName>recherche op </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF24 reseaux 1</ModuleName>
+<ElementName>protocoles et adressage reseau</ElementName>
+<ElementName>technologie des reseaux</ElementName>
+<ElementName>tp Cisco</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF25 architecture et linux </ModuleName>
+<ElementName>architecture des processeurs</ElementName>
+<ElementName>SE linux</ElementName>
+<ElementName>tp assembleur</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF26management 1</ModuleName>
+<ElementName>gestion des entreprises </ElementName>
+<ElementName>comptabilite</ElementName>
+<ElementName> economie</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

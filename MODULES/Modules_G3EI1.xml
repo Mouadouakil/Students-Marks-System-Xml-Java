@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>Statistique et Signal</ModuleName>
+<ElementName>Statistiques Appliquees</ElementName>
+<ElementName>Traitement de signal</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Electronique</ModuleName>
+<ElementName>Electronique analogique</ElementName>
+<ElementName>Electronique numerique</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Materiaux</ModuleName>
+<ElementName>Sciences des materiaux</ElementName>
+<ElementName>Dessin industriel</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Informatique</ModuleName>
+<ElementName>Bases de donnees </ElementName>
+<ElementName>Technologie web</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Automatique 1 et Electrotechnique 1</ModuleName>
+<ElementName>Electronique</ElementName>
+<ElementName>Automatique lineaire</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Management de l entreprise 1</ModuleName>
+<ElementName>Organisation et gestion des entreprises</ElementName>
+<ElementName>Comptabilite 1</ElementName>
+<ElementName>Economie1</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Electrotechnique 2 et simulation </ModuleName>
+<ElementName>Simulation des systemes industriels Labview</ElementName>
+<ElementName>Electrotechnique 2</ElementName>
+<ElementName>TP Electronique numerique</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Thermodynamique industrielle</ModuleName>
+<ElementName>Mecanqiue des fluides</ElementName>
+<ElementName>Thermodynamique appliquee</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Machines industrielles </ModuleName>
+<ElementName>Machines thermiques 1</ElementName>
+<ElementName>Machines hydrauliques</ElementName>
+<ElementName>Installations electriques</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Thermique</ModuleName>
+<ElementName>Transferts thermiques</ElementName>
+<ElementName>Metrologie et Mesures thermiques</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Energies et environnement </ModuleName>
+<ElementName>ecologies industrielle</ElementName>
+<ElementName>energies</ElementName>
+<ElementName>conduite de projets energies et environnement </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>langue et communication 1</ModuleName>
+<ElementName>developpement personnel</ElementName>
+<ElementName>methodologie de Projet Profesionnel</ElementName>
+<ElementName>Anglais 1 et Espagnol</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Students.xsd">
+<Student>
+<ID>1</ID>
+<CNE>371389830</CNE>
+<DateofBirth>1998-04-28</DateofBirth>
+<FirstName>Mcknight</FirstName>
+<LastName>Rodgers</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>01 60 02 69 66</Phone>
+<Email>ligula@utlacus.com</Email>
+</Student>
+<Student>
+<ID>2</ID>
+<CNE>348290556</CNE>
+<DateofBirth>1998-02-14</DateofBirth>
+<FirstName>Wise</FirstName>
+<LastName>Neal</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>01 47 61 63 20</Phone>
+<Email>consectetuer.cursus.et@tellus.net</Email>
+</Student>
+<Student>
+<ID>3</ID>
+<CNE>321331598</CNE>
+<DateofBirth>1998-10-05</DateofBirth>
+<FirstName>Wise</FirstName>
+<LastName>Slater</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>07 28 41 20 85</Phone>
+<Email>iaculis.quis.pede@Curabitur.co.uk</Email>
+</Student>
+<Student>
+<ID>4</ID>
+<CNE>250033501</CNE>
+<DateofBirth>1998-06-26</DateofBirth>
+<FirstName>Berry</FirstName>
+<LastName>Brooks</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>01 35 91 59 98</Phone>
+<Email>imperdiet@vulputateveliteu.edu</Email>
+</Student>
+<Student>
+<ID>5</ID>
+<CNE>200836891</CNE>
+<DateofBirth>1998-02-05</DateofBirth>
+<FirstName>Hatfield</FirstName>
+<LastName>Hopkins</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>03 60 79 04 32</Phone>
+<Email>molestie.arcu.Sed@semper.com</Email>
+</Student>
+<Student>
+<ID>6</ID>
+<CNE>296306314</CNE>
+<DateofBirth>1998-05-19</DateofBirth>
+<FirstName>Bryan</FirstName>
+<LastName>Finley</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>05 04 84 20 22</Phone>
+<Email>tincidunt.nibh.Phasellus@mauris.org</Email>
+</Student>
+<Student>
+<ID>7</ID>
+<CNE>234091048</CNE>
+<DateofBirth>1998-04-06</DateofBirth>
+<FirstName>Chavez</FirstName>
+<LastName>Adkins</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>05 59 55 42 23</Phone>
+<Email>tempor@nuncnullavulputate.edu</Email>
+</Student>
+<Student>
+<ID>8</ID>
+<CNE>202105242</CNE>
+<DateofBirth>1998-03-04</DateofBirth>
+<FirstName>Summers</FirstName>
+<LastName>Dorsey</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>02 08 19 95 43</Phone>
+<Email>mauris.Integer@vellectus.co.uk</Email>
+</Student>
+<Student>
+<ID>9</ID>
+<CNE>312006938</CNE>
+<DateofBirth>1998-03-16</DateofBirth>
+<FirstName>Cline</FirstName>
+<LastName>Sandoval</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>01 52 65 49 31</Phone>
+<Email>rutrum.justo.Praesent@enim.net</Email>
+</Student>
+<Student>
+<ID>10</ID>
+<CNE>394623604</CNE>
+<DateofBirth>1998-05-21</DateofBirth>
+<FirstName>Flores</FirstName>
+<LastName>Terrell</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>05 76 26 69 13</Phone>
+<Email>ipsum.sodales.purus@velfaucibusid.com</Email>
+</Student>
+<Student>
+<ID>11</ID>
+<CNE>279070875</CNE>
+<DateofBirth>1998-11-02</DateofBirth>
+<FirstName>Singleton</FirstName>
+<LastName>Morgan</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>05 13 35 75 80</Phone>
+<Email>gravida.molestie@placerat.co.uk</Email>
+</Student>
+<Student>
+<ID>12</ID>
+<CNE>331208967</CNE>
+<DateofBirth>1998-08-14</DateofBirth>
+<FirstName>Mccall</FirstName>
+<LastName>Mosley</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>06 67 67 30 85</Phone>
+<Email>ac.orci@Nullasemper.org</Email>
+</Student>
+<Student>
+<ID>13</ID>
+<CNE>328593126</CNE>
+<DateofBirth>1998-08-23</DateofBirth>
+<FirstName>David</FirstName>
+<LastName>Cervantes</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>05 51 65 19 26</Phone>
+<Email>blandit.enim.consequat@velitjustonec.com</Email>
+</Student>
+<Student>
+<ID>14</ID>
+<CNE>396076748</CNE>
+<DateofBirth>1998-03-15</DateofBirth>
+<FirstName>Hutchinson</FirstName>
+<LastName>Hicks</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>06 18 00 52 59</Phone>
+<Email>dictum.augue.malesuada@aliquetsem.com</Email>
+</Student>
+<Student>
+<ID>15</ID>
+<CNE>245788572</CNE>
+<DateofBirth>1998-03-28</DateofBirth>
+<FirstName>Santos</FirstName>
+<LastName>Alford</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>04 20 50 00 97</Phone>
+<Email>tempus@Phasellusat.org</Email>
+</Student>
+<Student>
+<ID>16</ID>
+<CNE>294409700</CNE>
+<DateofBirth>1998-10-24</DateofBirth>
+<FirstName>Glover</FirstName>
+<LastName>Wilson</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>05 74 54 21 69</Phone>
+<Email>amet.risus.Donec@maurisSuspendisse.ca</Email>
+</Student>
+<Student>
+<ID>17</ID>
+<CNE>391261235</CNE>
+<DateofBirth>1998-09-18</DateofBirth>
+<FirstName>Fischer</FirstName>
+<LastName>Kennedy</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>01 41 85 29 14</Phone>
+<Email>mi.lacinia@scelerisque.co.uk</Email>
+</Student>
+<Student>
+<ID>18</ID>
+<CNE>194440161</CNE>
+<DateofBirth>1998-09-25</DateofBirth>
+<FirstName>Ballard</FirstName>
+<LastName>Savage</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>06 25 03 23 71</Phone>
+<Email>lacinia.vitae.sodales@elitAliquamauctor.org</Email>
+</Student>
+<Student>
+<ID>19</ID>
+<CNE>209480800</CNE>
+<DateofBirth>1998-07-12</DateofBirth>
+<FirstName>Tyson</FirstName>
+<LastName>Patel</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>07 61 85 24 74</Phone>
+<Email>eros.Proin.ultrices@odioPhasellusat.net</Email>
+</Student>
+<Student>
+<ID>20</ID>
+<CNE>292595643</CNE>
+<DateofBirth>1998-08-14</DateofBirth>
+<FirstName>Weaver</FirstName>
+<LastName>Berger</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>01 53 72 38 38</Phone>
+<Email>molestie.pharetra@adipiscingelitEtiam.com</Email>
+</Student>
+<Student>
+<ID>21</ID>
+<CNE>212109963</CNE>
+<DateofBirth>1998-08-18</DateofBirth>
+<FirstName>Griffin</FirstName>
+<LastName>Cotton</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>02 71 67 66 06</Phone>
+<Email>Cras.convallis@Sednullaante.net</Email>
+</Student>
+<Student>
+<ID>22</ID>
+<CNE>312111967</CNE>
+<DateofBirth>1998-10-14</DateofBirth>
+<FirstName>Case</FirstName>
+<LastName>Keller</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>02 98 00 39 62</Phone>
+<Email>molestie@posuere.org</Email>
+</Student>
+<Student>
+<ID>23</ID>
+<CNE>190672409</CNE>
+<DateofBirth>1998-12-31</DateofBirth>
+<FirstName>Eaton</FirstName>
+<LastName>Fowler</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>07 34 75 05 65</Phone>
+<Email>cursus.et@inceptoshymenaeos.com</Email>
+</Student>
+<Student>
+<ID>24</ID>
+<CNE>240451161</CNE>
+<DateofBirth>1998-12-27</DateofBirth>
+<FirstName>Roberson</FirstName>
+<LastName>Molina</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>06 70 78 09 47</Phone>
+<Email>Donec.egestas.Duis@liberoDonec.ca</Email>
+</Student>
+<Student>
+<ID>25</ID>
+<CNE>358488890</CNE>
+<DateofBirth>1998-11-18</DateofBirth>
+<FirstName>Bonner</FirstName>
+<LastName>Briggs</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>08 26 88 28 87</Phone>
+<Email>quam@malesuada.com</Email>
+</Student>
+<Student>
+<ID>26</ID>
+<CNE>375569446</CNE>
+<DateofBirth>1998-03-03</DateofBirth>
+<FirstName>Summers</FirstName>
+<LastName>Mccray</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>04 15 83 58 89</Phone>
+<Email>convallis.est@tempusnon.com</Email>
+</Student>
+<Student>
+<ID>27</ID>
+<CNE>260617309</CNE>
+<DateofBirth>1998-12-24</DateofBirth>
+<FirstName>Schwartz</FirstName>
+<LastName>Hickman</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>01 84 72 63 22</Phone>
+<Email>tristique@lobortis.edu</Email>
+</Student>
+<Student>
+<ID>28</ID>
+<CNE>392304192</CNE>
+<DateofBirth>1998-02-03</DateofBirth>
+<FirstName>Oneil</FirstName>
+<LastName>Richardson</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>01 61 10 62 63</Phone>
+<Email>ipsum.Suspendisse@sitametante.org</Email>
+</Student>
+<Student>
+<ID>29</ID>
+<CNE>318503192</CNE>
+<DateofBirth>1998-07-11</DateofBirth>
+<FirstName>Monroe</FirstName>
+<LastName>Swanson</LastName>
+<ClasseName>G3EI2</ClasseName>
+<Phone>06 74 50 68 89</Phone>
+<Email>mi.felis.adipiscing@nisl.ca</Email>
+</Student>
+</Students>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>Valorisation des dechets </ModuleName>
+<ElementName>Recyclage industriel</ElementName>
+<ElementName>Biogaz</ElementName>
+<ElementName>Biomasse</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Responsabilite societale des entreprises</ModuleName>
+<ElementName>Outils RSE</ElementName>
+<ElementName>RES: ISO 26000</ElementName>
+<ElementName>Legislation de travail</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Efficacite energetique</ModuleName>
+<ElementName>Efficacite Energetique dans l industrie</ElementName>
+<ElementName>Outils d efficacite energ dans le batiment </ElementName>
+<ElementName>RTBN et simulation </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Optimisation des systemes energetiques hybrides </ModuleName>
+<ElementName>Systeme d information geographiques</ElementName>
+<ElementName>optimisation des systemes industriels</ElementName>
+<ElementName>Systemes hybrides a energies renouvelables</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Chauffage et climatisation</ModuleName>
+<ElementName>Systeme de chauffage acoustique et regulation </ElementName>
+<ElementName>climatisation et conditionnement d air</ElementName>
+<ElementName>froid industriel</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Management de l entreprise 2</ModuleName>
+<ElementName>Creation d entreprise</ElementName>
+<ElementName>Seminaires stage et projet collectif interdisciplinaire 2</ElementName>
+<ElementName>similation d entretien d embaucge et ethique de l ingenieur</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

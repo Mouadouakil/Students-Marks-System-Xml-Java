@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Students.xsd">
+<Student>
+<ID>1</ID>
+<CNE>288053062</CNE>
+<DateofBirth>1997-10-09</DateofBirth>
+<FirstName>Wells</FirstName>
+<LastName>Garrett</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>05 91 84 06 44</Phone>
+<Email>metus@In.edu</Email>
+</Student>
+<Student>
+<ID>2</ID>
+<CNE>235940312</CNE>
+<DateofBirth>1997-07-11</DateofBirth>
+<FirstName>Leach</FirstName>
+<LastName>Hyde</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>08 75 35 29 74</Phone>
+<Email>Duis.dignissim@luctus.com</Email>
+</Student>
+<Student>
+<ID>3</ID>
+<CNE>294585441</CNE>
+<DateofBirth>1997-07-28</DateofBirth>
+<FirstName>Phillips</FirstName>
+<LastName>Gordon</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>04 26 43 30 27</Phone>
+<Email>Praesent@velpedeblandit.net</Email>
+</Student>
+<Student>
+<ID>4</ID>
+<CNE>185463291</CNE>
+<DateofBirth>1997-09-22</DateofBirth>
+<FirstName>Delgado</FirstName>
+<LastName>Banks</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>07 61 63 29 18</Phone>
+<Email>non@ut.com</Email>
+</Student>
+<Student>
+<ID>5</ID>
+<CNE>278500645</CNE>
+<DateofBirth>1997-02-11</DateofBirth>
+<FirstName>Garner</FirstName>
+<LastName>Coleman</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>02 93 41 19 74</Phone>
+<Email>bibendum.ullamcorper.Duis@enimSuspendisse.net</Email>
+</Student>
+<Student>
+<ID>6</ID>
+<CNE>246813080</CNE>
+<DateofBirth>1997-02-28</DateofBirth>
+<FirstName>Miles</FirstName>
+<LastName>Avila</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>05 63 85 99 02</Phone>
+<Email>et@adipiscing.org</Email>
+</Student>
+<Student>
+<ID>7</ID>
+<CNE>227348823</CNE>
+<DateofBirth>1997-06-15</DateofBirth>
+<FirstName>Lamb</FirstName>
+<LastName>Moreno</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>05 45 89 38 81</Phone>
+<Email>id.erat.Etiam@odiosemper.co.uk</Email>
+</Student>
+<Student>
+<ID>8</ID>
+<CNE>221356590</CNE>
+<DateofBirth>1997-09-14</DateofBirth>
+<FirstName>Moon</FirstName>
+<LastName>Dale</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>02 87 26 62 06</Phone>
+<Email>Nunc.sed@Crasinterdum.net</Email>
+</Student>
+<Student>
+<ID>9</ID>
+<CNE>294038887</CNE>
+<DateofBirth>1997-10-06</DateofBirth>
+<FirstName>Alston</FirstName>
+<LastName>Patel</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>03 48 72 12 70</Phone>
+<Email>magna@consectetuermauris.net</Email>
+</Student>
+<Student>
+<ID>10</ID>
+<CNE>296273074</CNE>
+<DateofBirth>1997-03-31</DateofBirth>
+<FirstName>Hinton</FirstName>
+<LastName>Howe</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>07 48 68 51 07</Phone>
+<Email>tempus.risus.Donec@nequeIn.edu</Email>
+</Student>
+<Student>
+<ID>11</ID>
+<CNE>226299332</CNE>
+<DateofBirth>1997-06-29</DateofBirth>
+<FirstName>Stevenson</FirstName>
+<LastName>Gallegos</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>02 30 15 23 24</Phone>
+<Email>aliquam@vitae.ca</Email>
+</Student>
+<Student>
+<ID>12</ID>
+<CNE>230123094</CNE>
+<DateofBirth>1997-01-12</DateofBirth>
+<FirstName>Acosta</FirstName>
+<LastName>Tyler</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>06 57 56 28 00</Phone>
+<Email>blandit@tinciduntnuncac.org</Email>
+</Student>
+<Student>
+<ID>13</ID>
+<CNE>191568658</CNE>
+<DateofBirth>1997-02-03</DateofBirth>
+<FirstName>Gibbs</FirstName>
+<LastName>Prince</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>04 66 25 76 96</Phone>
+<Email>pretium.neque@cursusnon.com</Email>
+</Student>
+<Student>
+<ID>14</ID>
+<CNE>240621398</CNE>
+<DateofBirth>1997-02-18</DateofBirth>
+<FirstName>Blair</FirstName>
+<LastName>Langley</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>07 17 90 46 69</Phone>
+<Email>libero.et@vitae.edu</Email>
+</Student>
+<Student>
+<ID>15</ID>
+<CNE>221160310</CNE>
+<DateofBirth>1997-01-21</DateofBirth>
+<FirstName>Estrada</FirstName>
+<LastName>Hood</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>07 22 52 54 25</Phone>
+<Email>feugiat.metus@etarcuimperdiet.ca</Email>
+</Student>
+<Student>
+<ID>16</ID>
+<CNE>296887694</CNE>
+<DateofBirth>1997-09-03</DateofBirth>
+<FirstName>Stewart</FirstName>
+<LastName>Cameron</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>04 32 29 44 08</Phone>
+<Email>euismod.mauris@nequeMorbi.net</Email>
+</Student>
+<Student>
+<ID>17</ID>
+<CNE>271963461</CNE>
+<DateofBirth>1997-06-20</DateofBirth>
+<FirstName>Rose</FirstName>
+<LastName>Russo</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>05 73 84 78 34</Phone>
+<Email>ridiculus.mus@purusDuiselementum.ca</Email>
+</Student>
+<Student>
+<ID>18</ID>
+<CNE>185162486</CNE>
+<DateofBirth>1997-07-05</DateofBirth>
+<FirstName>Norman</FirstName>
+<LastName>Hood</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>03 48 55 39 48</Phone>
+<Email>aliquam.eros@ligulaconsectetuer.org</Email>
+</Student>
+<Student>
+<ID>19</ID>
+<CNE>209255448</CNE>
+<DateofBirth>1997-10-31</DateofBirth>
+<FirstName>Carter</FirstName>
+<LastName>Peterson</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>08 71 41 24 42</Phone>
+<Email>ipsum@lobortis.com</Email>
+</Student>
+<Student>
+<ID>20</ID>
+<CNE>194910614</CNE>
+<DateofBirth>1997-09-11</DateofBirth>
+<FirstName>Dale</FirstName>
+<LastName>Soto</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>08 76 82 32 58</Phone>
+<Email>molestie.tellus.Aenean@milaciniamattis.edu</Email>
+</Student>
+<Student>
+<ID>21</ID>
+<CNE>189353425</CNE>
+<DateofBirth>1997-04-21</DateofBirth>
+<FirstName>Woodard</FirstName>
+<LastName>Mcdowell</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>05 11 02 49 12</Phone>
+<Email>pretium.et@lacusQuisque.co.uk</Email>
+</Student>
+<Student>
+<ID>22</ID>
+<CNE>184360315</CNE>
+<DateofBirth>1997-01-07</DateofBirth>
+<FirstName>Morales</FirstName>
+<LastName>Russo</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>01 61 64 37 87</Phone>
+<Email>ut.pellentesque@necquam.co.uk</Email>
+</Student>
+<Student>
+<ID>23</ID>
+<CNE>218118187</CNE>
+<DateofBirth>1997-09-21</DateofBirth>
+<FirstName>Davenport</FirstName>
+<LastName>Le</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>07 96 02 79 89</Phone>
+<Email>tempor@etlaciniavitae.ca</Email>
+</Student>
+<Student>
+<ID>24</ID>
+<CNE>228759693</CNE>
+<DateofBirth>1997-07-17</DateofBirth>
+<FirstName>Best</FirstName>
+<LastName>Holden</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>07 99 96 77 89</Phone>
+<Email>auctor.vitae@sit.org</Email>
+</Student>
+<Student>
+<ID>25</ID>
+<CNE>217009019</CNE>
+<DateofBirth>1997-03-19</DateofBirth>
+<FirstName>Barr</FirstName>
+<LastName>Foster</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>04 16 45 62 49</Phone>
+<Email>iaculis.lacus@nislQuisque.ca</Email>
+</Student>
+<Student>
+<ID>26</ID>
+<CNE>253172430</CNE>
+<DateofBirth>1997-07-30</DateofBirth>
+<FirstName>Rivera</FirstName>
+<LastName>Warren</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>07 84 90 26 55</Phone>
+<Email>tristique@etmagnaPraesent.net</Email>
+</Student>
+<Student>
+<ID>27</ID>
+<CNE>270185581</CNE>
+<DateofBirth>1997-11-24</DateofBirth>
+<FirstName>Davenport</FirstName>
+<LastName>Todd</LastName>
+<ClasseName>GSTR3</ClasseName>
+<Phone>09 60 70 45 51</Phone>
+<Email>in@eratVivamusnisi.org</Email>
+</Student>
+</Students>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Releve>
+    <Modules>
+        <Module name='JAVAetXML' >
+            <Matiere name='JAVA' note ='12' >12</Matiere>
+            <Matiere name='XML'  note ='12'>14</Matiere>
+        </Module>
+        
+        <Module name='UMLetIHM' >
+            <Matiere name='UML' note='18' >18</Matiere>
+            <Matiere name='IHM' note ='10' >10</Matiere>
+        </Module>
+        
+        <Module name='AdminProgramSys' >
+            <Matiere name='Administration Systeme' note ='17' >17</Matiere>
+            <Matiere name='Programmation Systeme'  note ='17'>17</Matiere>
+        </Module>
+        
+        <Module name='TechnologiesDistribuees' >
+            <Matiere name='J2EE'  note ='8'>8</Matiere>
+            <Matiere name='C#'  note ='12 '>12</Matiere>
+        </Module>
+        
+        <Module name='Cycle de vie Logiciel' >
+            <Matiere name='Agile'  note ='9'>9</Matiere>
+            <Matiere name='Qualité'  note ='12 '>12</Matiere>
+        </Module>
+        
+        <Module name='Management' >
+            <Matiere name='Comptabilité'  note ='12'>12</Matiere>
+            <Matiere name='Gestion Entrprise'  note ='12 '>12</Matiere>
+        </Module>
+        
+        <Module name='Langue' >
+            <Matiere name='Espagnol'  note ='17'>17</Matiere>
+            <Matiere name='Francais'  note ='15 '>15</Matiere>
+        </Module>
+        
+    </Modules>
+</Releve>

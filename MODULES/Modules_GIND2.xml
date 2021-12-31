@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>automatisme et maintenance</ModuleName>
+<ElementName>automatismes industriels</ElementName>
+<ElementName>maintenance industrielle</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>commande industrielle</ModuleName>
+<ElementName>commande numerique des sys industriels</ElementName>
+<ElementName>reseaux locaux industriels</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>outils d aide a la decision </ModuleName>
+<ElementName>outils d aide a la decision monocritere </ElementName>
+<ElementName>theorie des graphes </ElementName>
+<ElementName>outils d aide a ala decision multicritere</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>fabrication mecanique </ModuleName>
+<ElementName>procedes de fabrication </ElementName>
+<ElementName>CFAO</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>conception mecanique </ModuleName>
+<ElementName>conception des systemes mecaniques et technologies</ElementName>
+<ElementName>analyse de la valeur </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>langue et communication 2 </ModuleName>
+<ElementName>economie et compta 2</ElementName>
+<ElementName>projet collectif et stages</ElementName>
+<ElementName>management de projet</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>modelisation et implantation </ModuleName>
+<ElementName>implantation des systemes de production</ElementName>
+<ElementName>modelisation et simulation des systemes de production </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>gestion de production </ModuleName>
+<ElementName>gestion de production </ElementName>
+<ElementName>GP avancee</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>maintenance et qualite</ModuleName>
+<ElementName>surete de fonctionnement et TP GMAO</ElementName>
+<ElementName>outils statistiques de la qualite </ElementName>
+<ElementName>analyse de la valeur 2</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>pilotage et amelioration continue </ModuleName>
+<ElementName>amelioration continue et actions de progres</ElementName>
+<ElementName>evaluation des performances et pilotage</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>ERP et MES</ModuleName>
+<ElementName>ERP</ElementName>
+<ElementName>MES</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Llangues et com2</ModuleName>
+<ElementName>espagnol 2 allemand</ElementName>
+<ElementName>anglais pro</ElementName>
+<ElementName>techniques de com</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

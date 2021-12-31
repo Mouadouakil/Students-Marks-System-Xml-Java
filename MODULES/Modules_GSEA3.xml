@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GSEA51 sys embarques </ModuleName>
+<ElementName>sys embarques</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA52 sys temps reel </ModuleName>
+<ElementName>sys temps reel</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA53 verification et dev mobile </ModuleName>
+<ElementName>dev mobile</ElementName>
+<ElementName>verification de sys temps reel</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA54 association conv machine et modelisation </ModuleName>
+<ElementName>association conv/machines</ElementName>
+<ElementName>QSE </ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA55 diagnostic des SA et modelisation </ModuleName>
+<ElementName>diagnostic des sys auto</ElementName>
+<ElementName>UML</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GSEA56 management 3</ModuleName>
+<ElementName>creation d entreprise </ElementName>
+<ElementName>seminaires stages</ElementName>
+<ElementName>simulation d entretien d embauche</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+</Modules>

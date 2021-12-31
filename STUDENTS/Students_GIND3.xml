@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Students.xsd">
+<Student>
+<ID>1</ID>
+<CNE>385750298</CNE>
+<DateofBirth>1997-08-08</DateofBirth>
+<FirstName>Mitchell</FirstName>
+<LastName>Stephens</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>09 77 78 32 85</Phone>
+<Email>ornare.lectus.justo@imperdietnecleo.co.uk</Email>
+</Student>
+<Student>
+<ID>2</ID>
+<CNE>299174705</CNE>
+<DateofBirth>1997-12-21</DateofBirth>
+<FirstName>Conner</FirstName>
+<LastName>Winters</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>02 53 42 53 96</Phone>
+<Email>Vivamus.euismod.urna@aliquamenimnec.com</Email>
+</Student>
+<Student>
+<ID>3</ID>
+<CNE>307594514</CNE>
+<DateofBirth>1997-04-18</DateofBirth>
+<FirstName>Richmond</FirstName>
+<LastName>Elliott</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>07 29 95 96 34</Phone>
+<Email>Fusce@nec.com</Email>
+</Student>
+<Student>
+<ID>4</ID>
+<CNE>325673426</CNE>
+<DateofBirth>1997-06-07</DateofBirth>
+<FirstName>Abbott</FirstName>
+<LastName>Kramer</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>05 30 75 95 76</Phone>
+<Email>ac@ante.org</Email>
+</Student>
+<Student>
+<ID>5</ID>
+<CNE>298360929</CNE>
+<DateofBirth>1997-09-19</DateofBirth>
+<FirstName>Mendoza</FirstName>
+<LastName>England</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>07 20 71 47 73</Phone>
+<Email>amet.lorem.semper@volutpatnunc.com</Email>
+</Student>
+<Student>
+<ID>6</ID>
+<CNE>219695411</CNE>
+<DateofBirth>1997-06-18</DateofBirth>
+<FirstName>Slater</FirstName>
+<LastName>Riddle</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>04 07 86 85 30</Phone>
+<Email>Curabitur.vel@cubiliaCurae.ca</Email>
+</Student>
+<Student>
+<ID>7</ID>
+<CNE>187916625</CNE>
+<DateofBirth>1997-01-27</DateofBirth>
+<FirstName>Dominguez</FirstName>
+<LastName>Oneill</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>06 29 68 73 45</Phone>
+<Email>aliquet.libero.Integer@augue.org</Email>
+</Student>
+<Student>
+<ID>8</ID>
+<CNE>212600267</CNE>
+<DateofBirth>1997-06-18</DateofBirth>
+<FirstName>Osborne</FirstName>
+<LastName>Foster</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>05 47 97 38 04</Phone>
+<Email>vel.lectus.Cum@ipsumnuncid.com</Email>
+</Student>
+<Student>
+<ID>9</ID>
+<CNE>219850612</CNE>
+<DateofBirth>1997-02-15</DateofBirth>
+<FirstName>Benton</FirstName>
+<LastName>Cruz</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>09 82 72 54 51</Phone>
+<Email>Donec@vitaepurusgravida.ca</Email>
+</Student>
+<Student>
+<ID>10</ID>
+<CNE>336861001</CNE>
+<DateofBirth>1997-10-31</DateofBirth>
+<FirstName>Mcgowan</FirstName>
+<LastName>Mckenzie</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>03 78 98 14 50</Phone>
+<Email>vitae@gravida.org</Email>
+</Student>
+<Student>
+<ID>11</ID>
+<CNE>196518704</CNE>
+<DateofBirth>1997-01-05</DateofBirth>
+<FirstName>Robles</FirstName>
+<LastName>Galloway</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>09 13 81 64 30</Phone>
+<Email>eget@Donec.co.uk</Email>
+</Student>
+<Student>
+<ID>12</ID>
+<CNE>199431951</CNE>
+<DateofBirth>1997-04-05</DateofBirth>
+<FirstName>Miles</FirstName>
+<LastName>Fuentes</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>03 91 92 24 16</Phone>
+<Email>ipsum.primis@risus.ca</Email>
+</Student>
+<Student>
+<ID>13</ID>
+<CNE>220600492</CNE>
+<DateofBirth>1997-03-02</DateofBirth>
+<FirstName>Wynn</FirstName>
+<LastName>Singleton</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>07 80 68 82 56</Phone>
+<Email>Nunc.mauris@Maurismagna.co.uk</Email>
+</Student>
+<Student>
+<ID>14</ID>
+<CNE>286074367</CNE>
+<DateofBirth>1997-05-17</DateofBirth>
+<FirstName>Hanson</FirstName>
+<LastName>Joyce</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>02 95 81 30 72</Phone>
+<Email>ac.urna@interdumligula.co.uk</Email>
+</Student>
+<Student>
+<ID>15</ID>
+<CNE>209824808</CNE>
+<DateofBirth>1997-12-05</DateofBirth>
+<FirstName>Gentry</FirstName>
+<LastName>Mcdaniel</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>09 78 65 34 94</Phone>
+<Email>diam.luctus.lobortis@nuncestmollis.edu</Email>
+</Student>
+<Student>
+<ID>16</ID>
+<CNE>191708276</CNE>
+<DateofBirth>1997-05-12</DateofBirth>
+<FirstName>Maynard</FirstName>
+<LastName>Hatfield</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>01 64 84 59 69</Phone>
+<Email>ante@vestibulum.net</Email>
+</Student>
+<Student>
+<ID>17</ID>
+<CNE>222072253</CNE>
+<DateofBirth>1997-08-09</DateofBirth>
+<FirstName>Dudley</FirstName>
+<LastName>Mccarthy</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>05 49 97 79 40</Phone>
+<Email>enim.Mauris.quis@aliquamenimnec.net</Email>
+</Student>
+<Student>
+<ID>18</ID>
+<CNE>354668848</CNE>
+<DateofBirth>1997-03-31</DateofBirth>
+<FirstName>Hudson</FirstName>
+<LastName>Maxwell</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>03 32 02 86 93</Phone>
+<Email>amet@interdum.edu</Email>
+</Student>
+<Student>
+<ID>19</ID>
+<CNE>331435444</CNE>
+<DateofBirth>1997-07-20</DateofBirth>
+<FirstName>Best</FirstName>
+<LastName>Snyder</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>02 33 36 07 77</Phone>
+<Email>est.Mauris.eu@ante.edu</Email>
+</Student>
+<Student>
+<ID>20</ID>
+<CNE>226074160</CNE>
+<DateofBirth>1997-12-05</DateofBirth>
+<FirstName>Wilder</FirstName>
+<LastName>Rivers</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>03 95 91 27 86</Phone>
+<Email>ac.risus.Morbi@ridiculusmusAenean.edu</Email>
+</Student>
+<Student>
+<ID>21</ID>
+<CNE>379893501</CNE>
+<DateofBirth>1997-03-31</DateofBirth>
+<FirstName>Henderson</FirstName>
+<LastName>Sharpe</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>05 83 42 33 89</Phone>
+<Email>luctus@ligula.co.uk</Email>
+</Student>
+<Student>
+<ID>22</ID>
+<CNE>237749193</CNE>
+<DateofBirth>1997-07-20</DateofBirth>
+<FirstName>Dale</FirstName>
+<LastName>Durham</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>08 15 25 88 52</Phone>
+<Email>elit.pretium.et@Nam.net</Email>
+</Student>
+<Student>
+<ID>23</ID>
+<CNE>357515866</CNE>
+<DateofBirth>1997-04-30</DateofBirth>
+<FirstName>Doyle</FirstName>
+<LastName>Martin</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>09 39 67 45 80</Phone>
+<Email>odio.Phasellus@arcu.edu</Email>
+</Student>
+<Student>
+<ID>24</ID>
+<CNE>390220651</CNE>
+<DateofBirth>1997-07-06</DateofBirth>
+<FirstName>Ware</FirstName>
+<LastName>Maldonado</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>08 15 51 03 63</Phone>
+<Email>interdum.Nunc@Etiamgravidamolestie.ca</Email>
+</Student>
+<Student>
+<ID>25</ID>
+<CNE>368862556</CNE>
+<DateofBirth>1998-08-08</DateofBirth>
+<FirstName>Shields</FirstName>
+<LastName>Richards</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>02 10 30 87 45</Phone>
+<Email>vel@interdumCurabiturdictum.com</Email>
+</Student>
+<Student>
+<ID>26</ID>
+<CNE>320440900</CNE>
+<DateofBirth>1998-12-21</DateofBirth>
+<FirstName>Craig</FirstName>
+<LastName>Fields</LastName>
+<ClasseName>GIND3</ClasseName>
+<Phone>09 24 76 22 71</Phone>
+<Email>sed@Phasellusdolor.org</Email>
+</Student>
+</Students>

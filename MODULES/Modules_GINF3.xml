@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GINF51 technologies ner et J2EE</ModuleName>
+<ElementName>architecture JEE framework et outils</ElementName>
+<ElementName>Programmation mobile Net</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF52 inteligence artificielle avancee et ingenierie de connaissance</ModuleName>
+<ElementName>IA avancee et web semantique</ElementName>
+<ElementName>ingenierie des connaissances</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF53 systemes d information decisionnelles et BI</ModuleName>
+<ElementName>entrepot de donnees</ElementName>
+<ElementName>analyse de donnees </ElementName>
+<ElementName>bigdata et et applications</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF54 management des sys d information </ModuleName>
+<ElementName>gouvernance des SI</ElementName>
+<ElementName>ERP et CRM</ElementName>
+<ElementName>audit et securite des SI</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF55 web services et applications </ModuleName>
+<ElementName>developpement web en .Net</ElementName>
+<ElementName>Webservices</ElementName>
+<ElementName>e-commerce </ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GINF56 management de l entreprise3</ModuleName>
+<ElementName>creation d entreprise: entrepreunariat et GRH</ElementName>
+<ElementName>seminaire projet libre et stage</ElementName>
+<ElementName>simulation d entretien d embauche et ethique de l ingenieur</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>Statistique et signal</ModuleName>
+<ElementName>statistiques appliquees</ElementName>
+<ElementName>traitement de signal</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>electronique</ModuleName>
+<ElementName>electronique analogique</ElementName>
+<ElementName>electronique numerique</ElementName>
+<Dept_Attachement>MI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>materiaux</ModuleName>
+<ElementName>sciences des materiaux</ElementName>
+<ElementName>dessin industriel</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>informatique</ModuleName>
+<ElementName>bases de donnees </ElementName>
+<ElementName>technologies web</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>automatique 1 et electrotechnique 1</ModuleName>
+<ElementName>electrotechnique</ElementName>
+<ElementName>automatique lineaire</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>management de l entreprise 1</ModuleName>
+<ElementName>Organisation et gestion des entreprises</ElementName>
+<ElementName>comptabilite 1</ElementName>
+<ElementName>economie 1</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Resistance des materiaux</ModuleName>
+<ElementName>RDM</ElementName>
+<ElementName>TP RDM et prjet individuel</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Fluides et structures</ModuleName>
+<ElementName>Structures et vibrations </ElementName>
+<ElementName>mecanique des fluides</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Machines industrielles </ModuleName>
+<ElementName>Machines thermiques</ElementName>
+<ElementName>Machines hydrauliques</ElementName>
+<ElementName>Installations electriques</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Simulation et metrologie</ModuleName>
+<ElementName>Systeme d information </ElementName>
+<ElementName>Simulation des systemes industriels Labview</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Langues et communication 1</ModuleName>
+<ElementName>Developpement personnel </ElementName>
+<ElementName>methodologie de projet pro</ElementName>
+<ElementName>Anglais 1 et espagnol</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

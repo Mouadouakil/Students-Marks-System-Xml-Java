@@ -1,0 +1,7 @@
+﻿MODULENAME;ELEMENTNAME1;ELEMENTName2;ELEMENTNAME3;DEPT_ATTACHEMENT
+GSEA51 sys embarques ;sys embarques;;;GEI
+GSEA52 sys temps reel ;sys temps reel;;;GEI
+GSEA53 verification et dev mobile ;dev mobile;verification de sys temps reel;;SIC
+GSEA54 association conv machine et modelisation ;association conv/machines;QSE ;;GEI
+GSEA55 diagnostic des SA et modelisation ;diagnostic des sys auto;UML;;SIC
+GSEA56 management 3;creation d entreprise ;seminaires stages;simulation d entretien d embauche;GEI

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>Automatismes industriels</ModuleName>
+<ElementName>Automatismes industriels </ElementName>
+<ElementName>Supervision</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Technologie mecanique</ModuleName>
+<ElementName>RDM</ElementName>
+<ElementName>Conception des systemes mecaniques</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Solaire thermique et geothermie</ModuleName>
+<ElementName>Solaire thermique basse temperature</ElementName>
+<ElementName>Solaire thermique HT</ElementName>
+<ElementName>Geothermie</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Energie eolienne</ModuleName>
+<ElementName>Aerodynamique</ElementName>
+<ElementName>Electronique de puissance</ElementName>
+<ElementName>Etude economique</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Legislation et droit de l environnement</ModuleName>
+<ElementName>Droit de l environnement</ElementName>
+<ElementName>Technique d EIE</ElementName>
+<ElementName>Projets d etude de cas EIE</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Langues et communication 2</ModuleName>
+<ElementName>Allemend Anglais professionnel</ElementName>
+<ElementName>Techniques de Communication</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Technologie gaziere et thermique</ModuleName>
+<ElementName>technologie gaziere</ElementName>
+<ElementName>Machines Thermiques 2</ElementName>
+<ElementName>Technologies des cyclescombines</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Management Environnemental</ModuleName>
+<ElementName>Developpement durable</ElementName>
+<ElementName>SME ISO 14001</ElementName>
+<ElementName>Projet SME</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Maintenance et qualite</ModuleName>
+<ElementName>Maintenance et surete de fonctionnement </ElementName>
+<ElementName>Outils statistiques qualite</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Energies photovoltaique et hydraulique</ModuleName>
+<ElementName>Energie photovoltaique</ElementName>
+<ElementName>Energie hydraulique</ElementName>
+<ElementName>Techniques de stockage</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Management QHSE</ModuleName>
+<ElementName>Systeme de management de la qualite</ElementName>
+<ElementName>Management du risque</ElementName>
+<ElementName>Systeme de management integre</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>Management de l entreprise 2</ModuleName>
+<ElementName>Economie et comptabilite 2</ElementName>
+<ElementName>Projet Collectif interdisciplinaire 1 et stage</ElementName>
+<ElementName>Management de projet</ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+</Modules>

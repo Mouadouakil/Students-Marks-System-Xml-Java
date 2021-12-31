@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+<Module>
+<ModuleName>GIND51 supply chain et ordonnancement </ModuleName>
+<ElementName>supply chain management </ElementName>
+<ElementName>ordonnancement</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GIND52 logistique</ModuleName>
+<ElementName>logistique industrielle et de transport</ElementName>
+<ElementName>logistique maritime</ElementName>
+<ElementName>e-logistique e-commerce</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GIND53 securite et energie </ModuleName>
+<ElementName>analyse des donnees industrielles</ElementName>
+<ElementName>securite ergonomie</ElementName>
+<ElementName>economie d energie</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GIND54 qualite et environnement </ModuleName>
+<ElementName>developpement durable et environnement </ElementName>
+<ElementName>management de l innovation </ElementName>
+<ElementName>management de la qualite </ElementName>
+<Dept_Attachement>SIC</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GIND55 contrôle et supervision </ModuleName>
+<ElementName>contrôle de gestion industrielle </ElementName>
+<ElementName>supervision </ElementName>
+<ElementName>gestion indus avancee</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+<Module>
+<ModuleName>GIND56 MANAGEMENT DE L ENTREPRISE 3</ModuleName>
+<ElementName>creation d entreprise</ElementName>
+<ElementName>seminaires projet libre et stage</ElementName>
+<ElementName>simulation d entretien d embauche et ethique de l ing</ElementName>
+<Dept_Attachement>GEI</Dept_Attachement>
+</Module>
+</Modules>

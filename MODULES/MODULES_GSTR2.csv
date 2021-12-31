@@ -1,0 +1,13 @@
+﻿MODULENAME;ELEMENTNAME1;ELEMENTName2;ELEMENTNAME3;DEPT_ATTACHEMENT
+GSTR31 telecom3;traitement num du signal;com numerique;;SIC
+GSTR32 reseaux2 ;protocoles et concepts de routage;communication de reseau local ;techno WAN ;MI
+GSTR33 telecom 4 ;guide ondes ;propagation radio ;tp telecom1;SIC
+GSTR34 telecom 5 ;antennes ;dispositifs micro ondes ;;SIC
+GSTR35 info2;archi mobiles ;programmation VHDL ;dev WEB JEE;SIC 
+GSTR36 langues et com 2 ;espagnol 2 allemand ;anglais pro;techniques de com ;SIC
+GSTR41 telecom 6 ;fibres optiques ;liaisons optiques ;tp telecom2;SIC
+GSTR42 traitement image et de la parole;traitement de l image ;traitement et codage de la parole ;;SIC
+GSTR43 reseaux 3;reseaux de transport ;voix ip PABX ;archi des centres de donnees ;MI
+GSTR44 reseaux 4 ;programmation reseaux;administration reseaux;administration systemes ;MI
+GSTR45 reseaux mobiles 1;reseaux mobiles 1;reseuax WPAN WLAN ;TP reseaux ;SIC
+GSTR46 management 2;eco et compta 2;projets collectif et stages ;management de projets ;SIC 
